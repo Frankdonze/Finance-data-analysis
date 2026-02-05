@@ -1,5 +1,6 @@
 .venv
 aws/
+*.key
 *.CSV
 *.csv
 *.csv.enc

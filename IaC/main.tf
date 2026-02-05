@@ -7,6 +7,29 @@ resource "aws_s3_bucket" "s3-data" {
 }
 
 ##############################
+#RDS Postgres
+##############################
+resource "aws_db_subnet_group" "my_db_subnet_group" {
+  name       = "my-db-subnet-group"
+  subnet_ids = [aws_subnet.dataprj-public-sub.id, aws_subnet.dataprj-public-sub-in-another-az.id]
+  description = "Single subnet for dev RDS"
+}
+
+resource "aws_db_instance" "analytics" {
+  	allocated_storage = 20
+  	engine = "postgres"
+  	instance_class = "db.t3.micro"
+  	db_name = "analytics"
+  	username = "dbadmin"
+  	password = var.db_password
+ 	identifier = "analytics"
+	db_subnet_group_name = aws_db_subnet_group.my_db_subnet_group.name
+ 
+  skip_final_snapshot = true
+}
+
+
+##############################
 #Network configuration
 ##############################
 
@@ -30,11 +53,54 @@ resource "aws_subnet" "dataprj-public-sub" {
 
 }
 
+resource "aws_subnet" "dataprj-public-sub-in-another-az" {
+	vpc_id = aws_vpc.dataprj.id
+	cidr_block = "10.20.2.0/24"
+	map_public_ip_on_launch = true	
+	availability_zone = "us-east-1b"
+	tags = {
+		Name = "dataprj-vpc-pubsub-in-another-az"
+	}
+
+}
+
 resource "aws_internet_gateway" "igw-dataprj" {
 	vpc_id = aws_vpc.dataprj.id
 }
 
-####       Route table and  Routes         #####
+#resource "aws_acm_certificate" "client-vpn-server-cert" 
+#	count = 0
+#	private_key = file("${path.module}/client-vpn-certs/server.key")
+#	certificate_body = file("${path.module}/client-vpn-certs/server.crt")
+#	certificate_chain = file("${path.module}/client-vpn-certs/ca.crt")
+
+
+#resource "aws_ec2_client_vpn_endpoint" "dataprj-client-vpn" 
+#        count = 0
+#	 description = "Client VPN for accessing aws data-prj vpc"
+#        server_certificate_arn = aws_acm_certificate.client-vpn-server-cert.id
+#        client_cidr_block = "10.9.0.0/22"
+
+#	authentication_options 
+#		type = "certificate-authentication"
+#		root_certificate_chain_arn = aws_acm_certificate.client-vpn-server-cert.id
+#	
+
+#	connection_log_options 
+#		enabled = false
+
+#	
+#
+
+
+#resource "aws_ec2_client_vpn_network_association" "dataprj-vpc-ass" 
+#	count = 0
+#	client_vpn_endpoint_id = aws_ec2_client_vpn_endpoint.dataprj-client-vpn.id
+#	subnet_id = aws_subnet.dataprj-public-sub.id
+#
+
+
+###       Route table and  Routes         #####
 data "aws_route_table" "dataprj-vpc-rt" {
 	vpc_id = aws_vpc.dataprj.id
 }
