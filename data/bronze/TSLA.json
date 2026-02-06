@@ -1,0 +1,7538 @@
+[
+    {
+        "symbol": "TSLA",
+        "date": "2026-02-06",
+        "price": 412.4162,
+        "volume": 41805863
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-02-05",
+        "price": 397.21,
+        "volume": 72819838
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-02-04",
+        "price": 406.01,
+        "volume": 74606900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-02-03",
+        "price": 421.96,
+        "volume": 56886549
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-02-02",
+        "price": 421.81,
+        "volume": 58739500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-30",
+        "price": 430.41,
+        "volume": 82626100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-29",
+        "price": 416.56,
+        "volume": 81686127
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-28",
+        "price": 431.46,
+        "volume": 54857403
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-27",
+        "price": 430.9,
+        "volume": 37733100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-26",
+        "price": 435.2,
+        "volume": 49397415
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-23",
+        "price": 449.06,
+        "volume": 56771400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-22",
+        "price": 449.36,
+        "volume": 71546729
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-21",
+        "price": 431.44,
+        "volume": 68124000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-20",
+        "price": 419.25,
+        "volume": 63187336
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-16",
+        "price": 437.5,
+        "volume": 60220600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-15",
+        "price": 438.57,
+        "volume": 49465813
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-14",
+        "price": 439.2,
+        "volume": 57259500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-13",
+        "price": 447.2,
+        "volume": 53719214
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-12",
+        "price": 448.96,
+        "volume": 61649627
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-09",
+        "price": 445.01,
+        "volume": 67331500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-08",
+        "price": 435.8,
+        "volume": 57041100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-07",
+        "price": 431.41,
+        "volume": 59828800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-06",
+        "price": 432.96,
+        "volume": 89093800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-05",
+        "price": 451.67,
+        "volume": 67940839
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2026-01-02",
+        "price": 438.07,
+        "volume": 85535406
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-31",
+        "price": 449.72,
+        "volume": 49078000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-30",
+        "price": 454.43,
+        "volume": 59238500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-29",
+        "price": 459.64,
+        "volume": 66263033
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-26",
+        "price": 475.19,
+        "volume": 58780700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-24",
+        "price": 485.4,
+        "volume": 41285429
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-23",
+        "price": 485.56,
+        "volume": 58223633
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-22",
+        "price": 488.73,
+        "volume": 86916100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-19",
+        "price": 481.2,
+        "volume": 103305424
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-18",
+        "price": 483.37,
+        "volume": 95168446
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-17",
+        "price": 467.26,
+        "volume": 106490405
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-16",
+        "price": 489.88,
+        "volume": 107608100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-15",
+        "price": 475.31,
+        "volume": 114542204
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-12",
+        "price": 458.96,
+        "volume": 95656749
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-11",
+        "price": 446.89,
+        "volume": 55979500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-10",
+        "price": 451.45,
+        "volume": 63257500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-09",
+        "price": 445.17,
+        "volume": 62367442
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-08",
+        "price": 439.58,
+        "volume": 69165800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-05",
+        "price": 455,
+        "volume": 56427522
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-04",
+        "price": 454.53,
+        "volume": 71906500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-03",
+        "price": 446.74,
+        "volume": 87483000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-02",
+        "price": 429.24,
+        "volume": 69336626
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-12-01",
+        "price": 430.14,
+        "volume": 57463600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-28",
+        "price": 430.17,
+        "volume": 36252900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-26",
+        "price": 426.58,
+        "volume": 63463000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-25",
+        "price": 419.4,
+        "volume": 71915624
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-24",
+        "price": 417.78,
+        "volume": 96806400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-21",
+        "price": 391.09,
+        "volume": 100460633
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-20",
+        "price": 395.23,
+        "volume": 113548827
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-19",
+        "price": 403.99,
+        "volume": 72047704
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-18",
+        "price": 401.25,
+        "volume": 80688637
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-17",
+        "price": 408.92,
+        "volume": 102214300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-14",
+        "price": 404.35,
+        "volume": 105506700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-13",
+        "price": 401.99,
+        "volume": 118948032
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-12",
+        "price": 430.6,
+        "volume": 58513520
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-11",
+        "price": 439.62,
+        "volume": 60533237
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-10",
+        "price": 445.23,
+        "volume": 76515907
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-07",
+        "price": 429.52,
+        "volume": 103471500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-06",
+        "price": 445.91,
+        "volume": 109622907
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-05",
+        "price": 462.07,
+        "volume": 85573015
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-04",
+        "price": 444.26,
+        "volume": 87756644
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-11-03",
+        "price": 468.37,
+        "volume": 84595244
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-31",
+        "price": 456.56,
+        "volume": 83135800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-30",
+        "price": 440.1,
+        "volume": 72447938
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-29",
+        "price": 461.51,
+        "volume": 67983544
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-28",
+        "price": 460.55,
+        "volume": 80185700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-27",
+        "price": 452.42,
+        "volume": 105867547
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-24",
+        "price": 433.72,
+        "volume": 94727800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-23",
+        "price": 448.98,
+        "volume": 126709833
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-22",
+        "price": 438.97,
+        "volume": 84023500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-21",
+        "price": 442.6,
+        "volume": 54412200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-20",
+        "price": 447.43,
+        "volume": 63719000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-17",
+        "price": 439.31,
+        "volume": 89331600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-16",
+        "price": 428.75,
+        "volume": 77189900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-15",
+        "price": 435.15,
+        "volume": 71558200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-14",
+        "price": 429.24,
+        "volume": 72669438
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-13",
+        "price": 435.9,
+        "volume": 79552800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-10",
+        "price": 413.49,
+        "volume": 112107900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-09",
+        "price": 435.54,
+        "volume": 69339928
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-08",
+        "price": 438.69,
+        "volume": 71192128
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-07",
+        "price": 433.09,
+        "volume": 102296100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-06",
+        "price": 453.25,
+        "volume": 85324900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-03",
+        "price": 429.83,
+        "volume": 133188200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-02",
+        "price": 436,
+        "volume": 137009000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-10-01",
+        "price": 459.46,
+        "volume": 98122300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-30",
+        "price": 444.72,
+        "volume": 74358000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-29",
+        "price": 443.21,
+        "volume": 79491510
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-26",
+        "price": 440.4,
+        "volume": 101628200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-25",
+        "price": 423.39,
+        "volume": 96746426
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-24",
+        "price": 442.79,
+        "volume": 93133600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-23",
+        "price": 425.85,
+        "volume": 83422700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-22",
+        "price": 434.21,
+        "volume": 97108800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-19",
+        "price": 426.07,
+        "volume": 93131034
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-18",
+        "price": 416.85,
+        "volume": 90454509
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-17",
+        "price": 425.86,
+        "volume": 106133532
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-16",
+        "price": 421.62,
+        "volume": 104285721
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-15",
+        "price": 410.04,
+        "volume": 163823700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-12",
+        "price": 395.94,
+        "volume": 168156400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-11",
+        "price": 368.81,
+        "volume": 103756010
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-10",
+        "price": 347.79,
+        "volume": 72121700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-09",
+        "price": 346.97,
+        "volume": 53816000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-08",
+        "price": 346.4,
+        "volume": 75208300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-05",
+        "price": 350.84,
+        "volume": 108989800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-04",
+        "price": 338.53,
+        "volume": 60711033
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-03",
+        "price": 334.09,
+        "volume": 88733300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-09-02",
+        "price": 329.36,
+        "volume": 58392000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-29",
+        "price": 333.87,
+        "volume": 81145700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-28",
+        "price": 345.98,
+        "volume": 67903224
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-27",
+        "price": 349.6,
+        "volume": 65519012
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-26",
+        "price": 351.67,
+        "volume": 76651600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-25",
+        "price": 346.6,
+        "volume": 86670037
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-22",
+        "price": 340.01,
+        "volume": 94016347
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-21",
+        "price": 320.11,
+        "volume": 55744445
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-20",
+        "price": 323.9,
+        "volume": 77481800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-19",
+        "price": 329.31,
+        "volume": 75956002
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-18",
+        "price": 335.16,
+        "volume": 56956600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-15",
+        "price": 330.56,
+        "volume": 74319800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-14",
+        "price": 335.58,
+        "volume": 75000700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-13",
+        "price": 339.38,
+        "volume": 67838900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-12",
+        "price": 340.84,
+        "volume": 80690111
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-11",
+        "price": 339.03,
+        "volume": 105320200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-08",
+        "price": 329.65,
+        "volume": 91200319
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-07",
+        "price": 322.27,
+        "volume": 66658700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-06",
+        "price": 319.91,
+        "volume": 78523600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-05",
+        "price": 308.72,
+        "volume": 57961300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-04",
+        "price": 309.26,
+        "volume": 78683905
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-08-01",
+        "price": 302.63,
+        "volume": 89121446
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-31",
+        "price": 308.27,
+        "volume": 85270919
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-30",
+        "price": 319.04,
+        "volume": 83931942
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-29",
+        "price": 321.2,
+        "volume": 87358900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-28",
+        "price": 325.59,
+        "volume": 112673800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-25",
+        "price": 316.06,
+        "volume": 148227027
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-24",
+        "price": 305.3,
+        "volume": 156966023
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-23",
+        "price": 332.56,
+        "volume": 92553800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-22",
+        "price": 332.11,
+        "volume": 77370400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-21",
+        "price": 328.49,
+        "volume": 75768800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-18",
+        "price": 329.65,
+        "volume": 94255000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-17",
+        "price": 319.41,
+        "volume": 73922900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-16",
+        "price": 321.67,
+        "volume": 97284800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-15",
+        "price": 310.78,
+        "volume": 77556346
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-14",
+        "price": 316.9,
+        "volume": 78043430
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-11",
+        "price": 313.51,
+        "volume": 79236442
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-10",
+        "price": 309.87,
+        "volume": 104365300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-09",
+        "price": 295.88,
+        "volume": 75586800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-08",
+        "price": 297.81,
+        "volume": 103246742
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-07",
+        "price": 293.94,
+        "volume": 131177949
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-03",
+        "price": 315.35,
+        "volume": 58042302
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-02",
+        "price": 315.65,
+        "volume": 119483730
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-07-01",
+        "price": 300.71,
+        "volume": 145085700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-30",
+        "price": 317.66,
+        "volume": 76695100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-27",
+        "price": 323.63,
+        "volume": 89067049
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-26",
+        "price": 325.78,
+        "volume": 80440907
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-25",
+        "price": 327.55,
+        "volume": 119845100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-24",
+        "price": 340.47,
+        "volume": 114736245
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-23",
+        "price": 348.68,
+        "volume": 190716815
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-20",
+        "price": 322.16,
+        "volume": 108688008
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-18",
+        "price": 322.05,
+        "volume": 95137700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-17",
+        "price": 316.35,
+        "volume": 88282700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-16",
+        "price": 329.13,
+        "volume": 83925900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-13",
+        "price": 325.31,
+        "volume": 128964300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-12",
+        "price": 319.11,
+        "volume": 105127536
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-11",
+        "price": 326.43,
+        "volume": 122611400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-10",
+        "price": 326.09,
+        "volume": 151256520
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-09",
+        "price": 308.58,
+        "volume": 140908900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-06",
+        "price": 295.14,
+        "volume": 164747700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-05",
+        "price": 284.7,
+        "volume": 292818700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-04",
+        "price": 332.05,
+        "volume": 98912100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-03",
+        "price": 344.27,
+        "volume": 99324544
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-06-02",
+        "price": 342.69,
+        "volume": 81873829
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-30",
+        "price": 346.46,
+        "volume": 123474938
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-29",
+        "price": 358.43,
+        "volume": 88545700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-28",
+        "price": 356.9,
+        "volume": 91404309
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-27",
+        "price": 362.89,
+        "volume": 120146414
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-23",
+        "price": 339.34,
+        "volume": 84654818
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-22",
+        "price": 341.04,
+        "volume": 97113416
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-21",
+        "price": 334.62,
+        "volume": 102354844
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-20",
+        "price": 343.82,
+        "volume": 131715548
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-19",
+        "price": 342.09,
+        "volume": 88869900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-16",
+        "price": 349.98,
+        "volume": 95895700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-15",
+        "price": 342.82,
+        "volume": 97882600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-14",
+        "price": 347.68,
+        "volume": 136997300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-13",
+        "price": 334.07,
+        "volume": 136992600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-12",
+        "price": 318.38,
+        "volume": 112826700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-09",
+        "price": 298.26,
+        "volume": 132387835
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-08",
+        "price": 284.82,
+        "volume": 97539448
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-07",
+        "price": 276.22,
+        "volume": 71882408
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-06",
+        "price": 275.35,
+        "volume": 76715800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-05",
+        "price": 280.26,
+        "volume": 94618900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-02",
+        "price": 287.21,
+        "volume": 114454700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-05-01",
+        "price": 280.52,
+        "volume": 99659000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-30",
+        "price": 282.16,
+        "volume": 128961100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-29",
+        "price": 292.03,
+        "volume": 108906600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-28",
+        "price": 285.88,
+        "volume": 151731800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-25",
+        "price": 284.95,
+        "volume": 167560700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-24",
+        "price": 259.51,
+        "volume": 94464200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-23",
+        "price": 250.74,
+        "volume": 150381903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-22",
+        "price": 237.97,
+        "volume": 120858500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-21",
+        "price": 227.5,
+        "volume": 97768007
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-17",
+        "price": 241.37,
+        "volume": 83404800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-16",
+        "price": 241.55,
+        "volume": 112378737
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-15",
+        "price": 254.11,
+        "volume": 79594318
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-14",
+        "price": 252.35,
+        "volume": 100135241
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-11",
+        "price": 252.31,
+        "volume": 128948100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-10",
+        "price": 252.4,
+        "volume": 181722604
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-09",
+        "price": 272.2,
+        "volume": 219433400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-08",
+        "price": 221.86,
+        "volume": 171603500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-07",
+        "price": 233.29,
+        "volume": 183453800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-04",
+        "price": 239.43,
+        "volume": 181229400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-03",
+        "price": 267.28,
+        "volume": 136174300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-02",
+        "price": 282.76,
+        "volume": 212787817
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-04-01",
+        "price": 268.46,
+        "volume": 146486911
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-31",
+        "price": 259.16,
+        "volume": 134008936
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-28",
+        "price": 263.55,
+        "volume": 123809400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-27",
+        "price": 273.13,
+        "volume": 162572146
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-26",
+        "price": 272.06,
+        "volume": 156254441
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-25",
+        "price": 288.14,
+        "volume": 150361538
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-24",
+        "price": 278.39,
+        "volume": 169079900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-21",
+        "price": 248.71,
+        "volume": 132728700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-20",
+        "price": 236.26,
+        "volume": 99028300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-19",
+        "price": 235.86,
+        "volume": 111993800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-18",
+        "price": 225.31,
+        "volume": 111477636
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-17",
+        "price": 238.01,
+        "volume": 111900600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-14",
+        "price": 249.98,
+        "volume": 100242300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-13",
+        "price": 240.68,
+        "volume": 114813525
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-12",
+        "price": 248.09,
+        "volume": 142215700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-11",
+        "price": 230.58,
+        "volume": 174896415
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-10",
+        "price": 222.15,
+        "volume": 189076948
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-07",
+        "price": 262.67,
+        "volume": 102369640
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-06",
+        "price": 263.45,
+        "volume": 98451600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-05",
+        "price": 279.1,
+        "volume": 94042913
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-04",
+        "price": 272.04,
+        "volume": 126706623
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-03-03",
+        "price": 284.65,
+        "volume": 115551414
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-28",
+        "price": 292.98,
+        "volume": 115697000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-27",
+        "price": 281.95,
+        "volume": 101748200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-26",
+        "price": 290.8,
+        "volume": 100118300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-25",
+        "price": 302.8,
+        "volume": 134228800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-24",
+        "price": 330.53,
+        "volume": 76052321
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-21",
+        "price": 337.8,
+        "volume": 74058648
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-20",
+        "price": 354.4,
+        "volume": 45965400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-19",
+        "price": 360.56,
+        "volume": 67094400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-18",
+        "price": 354.11,
+        "volume": 51631702
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-14",
+        "price": 355.84,
+        "volume": 68277300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-13",
+        "price": 355.94,
+        "volume": 89441519
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-12",
+        "price": 336.51,
+        "volume": 105382729
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-11",
+        "price": 328.5,
+        "volume": 118543400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-10",
+        "price": 350.73,
+        "volume": 77514903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-07",
+        "price": 361.62,
+        "volume": 70298300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-06",
+        "price": 374.32,
+        "volume": 77918230
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-05",
+        "price": 378.17,
+        "volume": 57614721
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-04",
+        "price": 392.21,
+        "volume": 57072235
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-02-03",
+        "price": 383.68,
+        "volume": 93732122
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-31",
+        "price": 404.6,
+        "volume": 83568219
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-30",
+        "price": 400.28,
+        "volume": 98092900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-29",
+        "price": 389.1,
+        "volume": 68033648
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-28",
+        "price": 398.09,
+        "volume": 48910700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-27",
+        "price": 397.15,
+        "volume": 58125510
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-24",
+        "price": 406.58,
+        "volume": 56427149
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-23",
+        "price": 412.38,
+        "volume": 50690600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-22",
+        "price": 415.11,
+        "volume": 60963342
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-21",
+        "price": 424.07,
+        "volume": 87320900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-17",
+        "price": 426.5,
+        "volume": 94991429
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-16",
+        "price": 413.82,
+        "volume": 68335200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-15",
+        "price": 428.22,
+        "volume": 81375500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-14",
+        "price": 396.36,
+        "volume": 84565022
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-13",
+        "price": 403.31,
+        "volume": 67580500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-10",
+        "price": 394.74,
+        "volume": 62287333
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-08",
+        "price": 394.94,
+        "volume": 73038805
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-07",
+        "price": 394.36,
+        "volume": 75699525
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-06",
+        "price": 411.05,
+        "volume": 85516534
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-03",
+        "price": 410.44,
+        "volume": 95423329
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2025-01-02",
+        "price": 379.28,
+        "volume": 109710749
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-31",
+        "price": 403.84,
+        "volume": 76825121
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-30",
+        "price": 417.41,
+        "volume": 64941012
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-27",
+        "price": 431.66,
+        "volume": 82666821
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-26",
+        "price": 454.13,
+        "volume": 76651210
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-24",
+        "price": 462.28,
+        "volume": 59551800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-23",
+        "price": 430.6,
+        "volume": 72698100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-20",
+        "price": 421.06,
+        "volume": 132216200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-19",
+        "price": 436.17,
+        "volume": 118566146
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-18",
+        "price": 440.13,
+        "volume": 149340800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-17",
+        "price": 479.86,
+        "volume": 131223000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-16",
+        "price": 463.02,
+        "volume": 114083811
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-13",
+        "price": 436.23,
+        "volume": 89000200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-12",
+        "price": 418.1,
+        "volume": 87752225
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-11",
+        "price": 424.77,
+        "volume": 104287600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-10",
+        "price": 400.99,
+        "volume": 97563600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-09",
+        "price": 389.79,
+        "volume": 96359200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-06",
+        "price": 389.22,
+        "volume": 81455834
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-05",
+        "price": 369.49,
+        "volume": 81403600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-04",
+        "price": 357.93,
+        "volume": 50810900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-03",
+        "price": 351.42,
+        "volume": 58267200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-12-02",
+        "price": 357.09,
+        "volume": 77986500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-29",
+        "price": 345.16,
+        "volume": 37167621
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-27",
+        "price": 332.89,
+        "volume": 57896439
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-26",
+        "price": 338.23,
+        "volume": 62295900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-25",
+        "price": 338.59,
+        "volume": 95890900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-22",
+        "price": 352.56,
+        "volume": 89140722
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-21",
+        "price": 339.64,
+        "volume": 58011719
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-20",
+        "price": 342.03,
+        "volume": 66340700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-19",
+        "price": 346,
+        "volume": 88852500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-18",
+        "price": 338.74,
+        "volume": 126547500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-15",
+        "price": 320.72,
+        "volume": 114440300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-14",
+        "price": 311.18,
+        "volume": 120726109
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-13",
+        "price": 330.24,
+        "volume": 125405600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-12",
+        "price": 328.49,
+        "volume": 155726016
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-11",
+        "price": 350,
+        "volume": 210521625
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-08",
+        "price": 321.22,
+        "volume": 204782800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-07",
+        "price": 296.91,
+        "volume": 117309232
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-06",
+        "price": 288.53,
+        "volume": 165228710
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-05",
+        "price": 251.44,
+        "volume": 69282505
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-04",
+        "price": 242.84,
+        "volume": 68802400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-11-01",
+        "price": 248.98,
+        "volume": 57544800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-31",
+        "price": 249.85,
+        "volume": 66575300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-30",
+        "price": 257.55,
+        "volume": 53993600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-29",
+        "price": 259.52,
+        "volume": 80521800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-28",
+        "price": 262.51,
+        "volume": 107653603
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-25",
+        "price": 269.19,
+        "volume": 161611931
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-24",
+        "price": 260.48,
+        "volume": 204491903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-23",
+        "price": 213.65,
+        "volume": 80938900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-22",
+        "price": 217.97,
+        "volume": 43268741
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-21",
+        "price": 218.85,
+        "volume": 47329000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-18",
+        "price": 220.7,
+        "volume": 49611900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-17",
+        "price": 220.89,
+        "volume": 50791800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-16",
+        "price": 221.33,
+        "volume": 49632824
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-15",
+        "price": 219.57,
+        "volume": 62988800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-14",
+        "price": 219.16,
+        "volume": 86291923
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-11",
+        "price": 217.8,
+        "volume": 142628900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-10",
+        "price": 238.77,
+        "volume": 83087100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-09",
+        "price": 241.05,
+        "volume": 66289529
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-08",
+        "price": 244.5,
+        "volume": 56303200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-07",
+        "price": 240.83,
+        "volume": 68113300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-04",
+        "price": 250.08,
+        "volume": 86726285
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-03",
+        "price": 240.66,
+        "volume": 80729240
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-02",
+        "price": 249.02,
+        "volume": 93983930
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-10-01",
+        "price": 258.02,
+        "volume": 87397613
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-30",
+        "price": 261.63,
+        "volume": 80873381
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-27",
+        "price": 260.46,
+        "volume": 70988100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-26",
+        "price": 254.22,
+        "volume": 67142200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-25",
+        "price": 257.02,
+        "volume": 65034318
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-24",
+        "price": 254.27,
+        "volume": 88491000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-23",
+        "price": 250,
+        "volume": 86927200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-20",
+        "price": 238.25,
+        "volume": 99879100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-19",
+        "price": 243.92,
+        "volume": 102694600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-18",
+        "price": 227.2,
+        "volume": 78010204
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-17",
+        "price": 227.87,
+        "volume": 66761636
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-16",
+        "price": 226.78,
+        "volume": 54323000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-13",
+        "price": 230.29,
+        "volume": 59515114
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-12",
+        "price": 229.81,
+        "volume": 72020042
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-11",
+        "price": 228.13,
+        "volume": 83548633
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-10",
+        "price": 226.17,
+        "volume": 78891136
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-09",
+        "price": 216.27,
+        "volume": 67443518
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-06",
+        "price": 210.73,
+        "volume": 112177004
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-05",
+        "price": 230.17,
+        "volume": 119355013
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-04",
+        "price": 219.41,
+        "volume": 80651800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-09-03",
+        "price": 210.6,
+        "volume": 76714222
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-30",
+        "price": 214.11,
+        "volume": 63370608
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-29",
+        "price": 206.28,
+        "volume": 62308818
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-28",
+        "price": 205.75,
+        "volume": 64116400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-27",
+        "price": 209.21,
+        "volume": 62821400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-26",
+        "price": 213.21,
+        "volume": 59301200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-23",
+        "price": 220.32,
+        "volume": 81525207
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-22",
+        "price": 210.66,
+        "volume": 79514500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-21",
+        "price": 223.27,
+        "volume": 70146000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-20",
+        "price": 221.1,
+        "volume": 74001200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-19",
+        "price": 222.72,
+        "volume": 76435222
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-16",
+        "price": 216.12,
+        "volume": 88765122
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-15",
+        "price": 214.14,
+        "volume": 89848530
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-14",
+        "price": 201.38,
+        "volume": 70250014
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-13",
+        "price": 207.83,
+        "volume": 76247400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-12",
+        "price": 197.49,
+        "volume": 64044903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-09",
+        "price": 200,
+        "volume": 58648300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-08",
+        "price": 198.84,
+        "volume": 65033900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-07",
+        "price": 191.76,
+        "volume": 71159800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-06",
+        "price": 200.64,
+        "volume": 73783942
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-05",
+        "price": 198.88,
+        "volume": 100308836
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-02",
+        "price": 207.67,
+        "volume": 82880120
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-08-01",
+        "price": 216.86,
+        "volume": 83861900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-31",
+        "price": 232.07,
+        "volume": 67497011
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-30",
+        "price": 222.62,
+        "volume": 100560334
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-29",
+        "price": 232.1,
+        "volume": 129201800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-26",
+        "price": 219.8,
+        "volume": 94604145
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-25",
+        "price": 220.25,
+        "volume": 100636500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-24",
+        "price": 215.99,
+        "volume": 167942939
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-23",
+        "price": 246.38,
+        "volume": 111928200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-22",
+        "price": 251.51,
+        "volume": 101225430
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-19",
+        "price": 239.2,
+        "volume": 87403903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-18",
+        "price": 249.23,
+        "volume": 110869037
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-17",
+        "price": 248.5,
+        "volume": 115584810
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-16",
+        "price": 256.56,
+        "volume": 126332470
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-15",
+        "price": 252.64,
+        "volume": 146912920
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-12",
+        "price": 248.23,
+        "volume": 155955773
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-11",
+        "price": 241.03,
+        "volume": 221707273
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-10",
+        "price": 263.26,
+        "volume": 128519430
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-09",
+        "price": 262.33,
+        "volume": 160742516
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-08",
+        "price": 252.94,
+        "volume": 157219580
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-05",
+        "price": 251.52,
+        "volume": 154501152
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-03",
+        "price": 246.39,
+        "volume": 166561471
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-02",
+        "price": 231.26,
+        "volume": 205047920
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-07-01",
+        "price": 209.86,
+        "volume": 135691395
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-28",
+        "price": 197.88,
+        "volume": 95438068
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-27",
+        "price": 197.42,
+        "volume": 72746521
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-26",
+        "price": 196.37,
+        "volume": 95737066
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-25",
+        "price": 187.35,
+        "volume": 63678265
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-24",
+        "price": 182.58,
+        "volume": 61992070
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-21",
+        "price": 183.01,
+        "volume": 63029482
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-20",
+        "price": 181.57,
+        "volume": 55893139
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-18",
+        "price": 184.86,
+        "volume": 68982265
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-17",
+        "price": 187.44,
+        "volume": 109786083
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-14",
+        "price": 178.01,
+        "volume": 82038194
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-13",
+        "price": 182.47,
+        "volume": 118984122
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-12",
+        "price": 177.29,
+        "volume": 90389446
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-11",
+        "price": 170.66,
+        "volume": 64761928
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-10",
+        "price": 173.79,
+        "volume": 50869682
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-07",
+        "price": 177.48,
+        "volume": 56244932
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-06",
+        "price": 177.94,
+        "volume": 69887024
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-05",
+        "price": 175,
+        "volume": 57953756
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-04",
+        "price": 174.77,
+        "volume": 60056340
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-06-03",
+        "price": 176.29,
+        "volume": 68568920
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-31",
+        "price": 178.08,
+        "volume": 67314602
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-30",
+        "price": 178.79,
+        "volume": 77784755
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-29",
+        "price": 176.19,
+        "volume": 54782649
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-28",
+        "price": 176.75,
+        "volume": 59736620
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-24",
+        "price": 179.24,
+        "volume": 65584478
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-23",
+        "price": 173.74,
+        "volume": 71975496
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-22",
+        "price": 180.11,
+        "volume": 88313477
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-21",
+        "price": 186.6,
+        "volume": 115266512
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-20",
+        "price": 174.95,
+        "volume": 61727425
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-17",
+        "price": 177.46,
+        "volume": 77445845
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-16",
+        "price": 174.84,
+        "volume": 59812220
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-15",
+        "price": 173.99,
+        "volume": 79662993
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-14",
+        "price": 177.55,
+        "volume": 86407422
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-13",
+        "price": 171.89,
+        "volume": 67018903
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-10",
+        "price": 168.47,
+        "volume": 72627178
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-09",
+        "price": 171.97,
+        "volume": 65950292
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-08",
+        "price": 174.72,
+        "volume": 79969488
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-07",
+        "price": 177.81,
+        "volume": 75045854
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-06",
+        "price": 184.76,
+        "volume": 84390253
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-03",
+        "price": 181.19,
+        "volume": 75491539
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-02",
+        "price": 180.01,
+        "volume": 89148041
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-05-01",
+        "price": 179.99,
+        "volume": 92829719
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-30",
+        "price": 183.28,
+        "volume": 127031787
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-29",
+        "price": 194.05,
+        "volume": 243869678
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-26",
+        "price": 168.29,
+        "volume": 109815725
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-25",
+        "price": 170.18,
+        "volume": 126427521
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-24",
+        "price": 162.13,
+        "volume": 181178020
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-23",
+        "price": 144.68,
+        "volume": 124545104
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-22",
+        "price": 142.05,
+        "volume": 107097564
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-19",
+        "price": 147.05,
+        "volume": 87074500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-18",
+        "price": 149.93,
+        "volume": 96098830
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-17",
+        "price": 155.45,
+        "volume": 82439718
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-16",
+        "price": 157.11,
+        "volume": 96999956
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-15",
+        "price": 161.48,
+        "volume": 100245310
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-12",
+        "price": 171.05,
+        "volume": 64722669
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-11",
+        "price": 174.6,
+        "volume": 94515987
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-10",
+        "price": 171.76,
+        "volume": 84532407
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-09",
+        "price": 176.88,
+        "volume": 103232675
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-08",
+        "price": 172.98,
+        "volume": 104423320
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-05",
+        "price": 164.9,
+        "volume": 143157603
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-04",
+        "price": 171.11,
+        "volume": 123161960
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-03",
+        "price": 168.38,
+        "volume": 82950141
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-02",
+        "price": 166.63,
+        "volume": 116650594
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-04-01",
+        "price": 175.22,
+        "volume": 81562127
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-28",
+        "price": 175.79,
+        "volume": 77654838
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-27",
+        "price": 179.83,
+        "volume": 81804043
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-26",
+        "price": 177.67,
+        "volume": 113186227
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-25",
+        "price": 172.63,
+        "volume": 74228615
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-22",
+        "price": 170.83,
+        "volume": 75580637
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-21",
+        "price": 172.82,
+        "volume": 73178014
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-20",
+        "price": 175.66,
+        "volume": 83846726
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-19",
+        "price": 171.32,
+        "volume": 77271428
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-18",
+        "price": 173.8,
+        "volume": 108214358
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-15",
+        "price": 163.57,
+        "volume": 97146832
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-14",
+        "price": 162.5,
+        "volume": 126325696
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-13",
+        "price": 169.48,
+        "volume": 106524518
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-12",
+        "price": 177.54,
+        "volume": 87391684
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-11",
+        "price": 177.77,
+        "volume": 85391528
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-08",
+        "price": 175.34,
+        "volume": 85544644
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-07",
+        "price": 178.65,
+        "volume": 102129004
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-06",
+        "price": 176.54,
+        "volume": 107920944
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-05",
+        "price": 180.74,
+        "volume": 119660758
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-04",
+        "price": 188.14,
+        "volume": 134334869
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-03-01",
+        "price": 202.64,
+        "volume": 82243119
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-29",
+        "price": 201.88,
+        "volume": 85906974
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-28",
+        "price": 202.04,
+        "volume": 99806173
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-27",
+        "price": 199.73,
+        "volume": 108645412
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-26",
+        "price": 199.4,
+        "volume": 111747116
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-23",
+        "price": 191.97,
+        "volume": 78841917
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-22",
+        "price": 197.41,
+        "volume": 92739461
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-21",
+        "price": 194.77,
+        "volume": 103844008
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-20",
+        "price": 193.76,
+        "volume": 104545762
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-16",
+        "price": 199.95,
+        "volume": 111346705
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-15",
+        "price": 200.45,
+        "volume": 120831762
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-14",
+        "price": 188.71,
+        "volume": 81202987
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-13",
+        "price": 184.02,
+        "volume": 86759478
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-12",
+        "price": 188.13,
+        "volume": 95498597
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-09",
+        "price": 193.57,
+        "volume": 84476347
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-08",
+        "price": 189.56,
+        "volume": 83034043
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-07",
+        "price": 187.58,
+        "volume": 111535217
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-06",
+        "price": 185.1,
+        "volume": 122675954
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-05",
+        "price": 181.06,
+        "volume": 134294447
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-02",
+        "price": 187.91,
+        "volume": 110612672
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-02-01",
+        "price": 188.86,
+        "volume": 91843275
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-31",
+        "price": 187.29,
+        "volume": 103221430
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-30",
+        "price": 191.59,
+        "volume": 109982327
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-29",
+        "price": 190.93,
+        "volume": 125013148
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-26",
+        "price": 183.25,
+        "volume": 107343231
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-25",
+        "price": 182.63,
+        "volume": 198076787
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-24",
+        "price": 207.83,
+        "volume": 123369932
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-23",
+        "price": 209.14,
+        "volume": 106605946
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-22",
+        "price": 208.8,
+        "volume": 117952527
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-19",
+        "price": 212.19,
+        "volume": 102260343
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-18",
+        "price": 211.88,
+        "volume": 108595431
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-17",
+        "price": 215.55,
+        "volume": 103164400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-16",
+        "price": 219.91,
+        "volume": 115355046
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-12",
+        "price": 218.89,
+        "volume": 123043812
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-11",
+        "price": 227.22,
+        "volume": 105873612
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-10",
+        "price": 233.94,
+        "volume": 91628502
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-09",
+        "price": 234.96,
+        "volume": 96705664
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-08",
+        "price": 240.45,
+        "volume": 85166580
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-05",
+        "price": 237.49,
+        "volume": 92488939
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-04",
+        "price": 237.93,
+        "volume": 102629283
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-03",
+        "price": 238.45,
+        "volume": 121082599
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2024-01-02",
+        "price": 248.42,
+        "volume": 104654163
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-29",
+        "price": 248.48,
+        "volume": 100891578
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-28",
+        "price": 253.18,
+        "volume": 113619943
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-27",
+        "price": 261.44,
+        "volume": 106494359
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-26",
+        "price": 256.61,
+        "volume": 86892382
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-22",
+        "price": 252.54,
+        "volume": 93370094
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-21",
+        "price": 254.5,
+        "volume": 109594227
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-20",
+        "price": 247.14,
+        "volume": 125096987
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-19",
+        "price": 257.22,
+        "volume": 106737369
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-18",
+        "price": 252.08,
+        "volume": 116416490
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-15",
+        "price": 253.5,
+        "volume": 135932762
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-14",
+        "price": 251.05,
+        "volume": 160829239
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-13",
+        "price": 239.29,
+        "volume": 146286348
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-12",
+        "price": 237.01,
+        "volume": 95328313
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-11",
+        "price": 239.74,
+        "volume": 97913888
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-08",
+        "price": 243.84,
+        "volume": 103126829
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-07",
+        "price": 242.64,
+        "volume": 107142262
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-06",
+        "price": 239.37,
+        "volume": 126436179
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-05",
+        "price": 238.72,
+        "volume": 137971115
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-04",
+        "price": 235.58,
+        "volume": 104099817
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-12-01",
+        "price": 238.83,
+        "volume": 121303661
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-30",
+        "price": 240.08,
+        "volume": 132353076
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-29",
+        "price": 244.14,
+        "volume": 135380335
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-28",
+        "price": 246.72,
+        "volume": 148549913
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-27",
+        "price": 236.08,
+        "volume": 112031163
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-24",
+        "price": 235.45,
+        "volume": 65125203
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-22",
+        "price": 234.21,
+        "volume": 118117078
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-21",
+        "price": 241.2,
+        "volume": 122248300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-20",
+        "price": 235.6,
+        "volume": 116562402
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-17",
+        "price": 234.3,
+        "volume": 142766234
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-16",
+        "price": 233.59,
+        "volume": 136774269
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-15",
+        "price": 242.84,
+        "volume": 150353975
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-14",
+        "price": 237.41,
+        "volume": 149762546
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-13",
+        "price": 223.71,
+        "volume": 140428469
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-10",
+        "price": 214.65,
+        "volume": 131295153
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-09",
+        "price": 209.98,
+        "volume": 142065154
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-08",
+        "price": 222.11,
+        "volume": 106384841
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-07",
+        "price": 222.18,
+        "volume": 116897380
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-06",
+        "price": 219.27,
+        "volume": 116835820
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-03",
+        "price": 219.96,
+        "volume": 119526048
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-02",
+        "price": 218.51,
+        "volume": 125959421
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-11-01",
+        "price": 205.66,
+        "volume": 121661656
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-31",
+        "price": 200.84,
+        "volume": 118053273
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-30",
+        "price": 197.36,
+        "volume": 136460923
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-27",
+        "price": 207.3,
+        "volume": 94717973
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-26",
+        "price": 205.76,
+        "volume": 115095735
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-25",
+        "price": 212.42,
+        "volume": 107049087
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-24",
+        "price": 216.52,
+        "volume": 118096713
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-23",
+        "price": 212.08,
+        "volume": 150453468
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-20",
+        "price": 211.99,
+        "volume": 137930095
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-19",
+        "price": 220.11,
+        "volume": 170588573
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-18",
+        "price": 242.68,
+        "volume": 125116646
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-17",
+        "price": 254.85,
+        "volume": 93535509
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-16",
+        "price": 253.92,
+        "volume": 88916276
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-13",
+        "price": 251.12,
+        "volume": 102137686
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-12",
+        "price": 258.87,
+        "volume": 111508114
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-11",
+        "price": 262.99,
+        "volume": 103706266
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-10",
+        "price": 263.62,
+        "volume": 122656030
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-09",
+        "price": 259.67,
+        "volume": 101377947
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-06",
+        "price": 260.53,
+        "volume": 118108312
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-05",
+        "price": 260.05,
+        "volume": 119159214
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-04",
+        "price": 261.16,
+        "volume": 129721567
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-03",
+        "price": 246.53,
+        "volume": 101985305
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-10-02",
+        "price": 251.6,
+        "volume": 123810402
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-29",
+        "price": 250.22,
+        "volume": 128472729
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-28",
+        "price": 246.38,
+        "volume": 117043180
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-27",
+        "price": 240.5,
+        "volume": 136585184
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-26",
+        "price": 244.12,
+        "volume": 101934431
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-25",
+        "price": 246.99,
+        "volume": 104583747
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-22",
+        "price": 244.88,
+        "volume": 127524083
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-21",
+        "price": 255.7,
+        "volume": 119803341
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-20",
+        "price": 262.59,
+        "volume": 122491643
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-19",
+        "price": 266.5,
+        "volume": 103677113
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-18",
+        "price": 265.28,
+        "volume": 101540959
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-15",
+        "price": 274.39,
+        "volume": 133692313
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-14",
+        "price": 276.04,
+        "volume": 107709842
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-13",
+        "price": 271.3,
+        "volume": 111673737
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-12",
+        "price": 267.48,
+        "volume": 135991116
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-11",
+        "price": 273.58,
+        "volume": 174667852
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-08",
+        "price": 248.5,
+        "volume": 118558435
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-07",
+        "price": 251.49,
+        "volume": 115312886
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-06",
+        "price": 251.92,
+        "volume": 116959800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-05",
+        "price": 256.49,
+        "volume": 129469600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-09-01",
+        "price": 245.01,
+        "volume": 132272500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-31",
+        "price": 258.08,
+        "volume": 108861700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-30",
+        "price": 256.9,
+        "volume": 121988400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-29",
+        "price": 257.18,
+        "volume": 134047600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-28",
+        "price": 238.82,
+        "volume": 107673700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-25",
+        "price": 238.59,
+        "volume": 106612200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-24",
+        "price": 230.04,
+        "volume": 99777400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-23",
+        "price": 236.86,
+        "volume": 101077600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-22",
+        "price": 233.19,
+        "volume": 130597900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-21",
+        "price": 231.28,
+        "volume": 135702700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-18",
+        "price": 215.49,
+        "volume": 135813700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-17",
+        "price": 219.22,
+        "volume": 120718400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-16",
+        "price": 225.6,
+        "volume": 112484500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-15",
+        "price": 232.96,
+        "volume": 88197600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-14",
+        "price": 239.76,
+        "volume": 98595300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-11",
+        "price": 242.65,
+        "volume": 98866600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-10",
+        "price": 245.34,
+        "volume": 109498600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-09",
+        "price": 242.19,
+        "volume": 101596300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-08",
+        "price": 249.7,
+        "volume": 96642200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-07",
+        "price": 251.45,
+        "volume": 111097900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-04",
+        "price": 253.86,
+        "volume": 99242600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-03",
+        "price": 259.32,
+        "volume": 97569100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-02",
+        "price": 254.11,
+        "volume": 101752900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-08-01",
+        "price": 261.07,
+        "volume": 83166000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-31",
+        "price": 267.43,
+        "volume": 84582200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-28",
+        "price": 266.44,
+        "volume": 111446000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-27",
+        "price": 255.71,
+        "volume": 103697300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-26",
+        "price": 264.35,
+        "volume": 95856200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-25",
+        "price": 265.28,
+        "volume": 112757300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-24",
+        "price": 269.06,
+        "volume": 136508500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-21",
+        "price": 260.02,
+        "volume": 161050100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-20",
+        "price": 262.9,
+        "volume": 175158300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-19",
+        "price": 291.26,
+        "volume": 142355400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-18",
+        "price": 293.34,
+        "volume": 112434700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-17",
+        "price": 290.38,
+        "volume": 131569600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-14",
+        "price": 281.38,
+        "volume": 119771100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-13",
+        "price": 277.9,
+        "volume": 112681500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-12",
+        "price": 271.99,
+        "volume": 95672100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-11",
+        "price": 269.79,
+        "volume": 91972400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-10",
+        "price": 269.61,
+        "volume": 119425400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-07",
+        "price": 274.43,
+        "volume": 113602000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-06",
+        "price": 276.54,
+        "volume": 120332100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-05",
+        "price": 282.48,
+        "volume": 131530900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-07-03",
+        "price": 279.82,
+        "volume": 119685900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-30",
+        "price": 261.77,
+        "volume": 112267600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-29",
+        "price": 257.5,
+        "volume": 131283400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-28",
+        "price": 256.24,
+        "volume": 159770800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-27",
+        "price": 250.21,
+        "volume": 164968200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-26",
+        "price": 241.05,
+        "volume": 179990600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-23",
+        "price": 256.6,
+        "volume": 176584100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-22",
+        "price": 264.61,
+        "volume": 166875900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-21",
+        "price": 259.46,
+        "volume": 211797100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-20",
+        "price": 274.45,
+        "volume": 165611200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-16",
+        "price": 260.54,
+        "volume": 167563700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-15",
+        "price": 255.9,
+        "volume": 160171200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-14",
+        "price": 256.79,
+        "volume": 170575500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-13",
+        "price": 258.71,
+        "volume": 162384300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-12",
+        "price": 249.83,
+        "volume": 150337900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-09",
+        "price": 244.4,
+        "volume": 199882300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-08",
+        "price": 234.86,
+        "volume": 164489700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-07",
+        "price": 224.57,
+        "volume": 185710800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-06",
+        "price": 221.31,
+        "volume": 146911600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-05",
+        "price": 217.61,
+        "volume": 151143100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-02",
+        "price": 213.97,
+        "volume": 164129000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-06-01",
+        "price": 207.52,
+        "volume": 148029900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-31",
+        "price": 203.93,
+        "volume": 150711700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-30",
+        "price": 201.16,
+        "volume": 128818700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-26",
+        "price": 193.17,
+        "volume": 162061500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-25",
+        "price": 184.47,
+        "volume": 96870700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-24",
+        "price": 182.9,
+        "volume": 137605100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-23",
+        "price": 185.77,
+        "volume": 156952100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-22",
+        "price": 188.87,
+        "volume": 132001400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-19",
+        "price": 180.14,
+        "volume": 136024200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-18",
+        "price": 176.89,
+        "volume": 109520300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-17",
+        "price": 173.86,
+        "volume": 125473600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-16",
+        "price": 166.52,
+        "volume": 98288800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-15",
+        "price": 166.35,
+        "volume": 105592500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-12",
+        "price": 167.98,
+        "volume": 157577100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-11",
+        "price": 172.08,
+        "volume": 103889900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-10",
+        "price": 168.54,
+        "volume": 119840700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-09",
+        "price": 169.15,
+        "volume": 88965000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-08",
+        "price": 171.79,
+        "volume": 112249400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-05",
+        "price": 170.06,
+        "volume": 107440900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-04",
+        "price": 161.2,
+        "volume": 95108500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-03",
+        "price": 160.61,
+        "volume": 119728000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-02",
+        "price": 160.31,
+        "volume": 128259700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-05-01",
+        "price": 161.83,
+        "volume": 109015000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-28",
+        "price": 164.31,
+        "volume": 122515800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-27",
+        "price": 160.19,
+        "volume": 127015200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-26",
+        "price": 153.75,
+        "volume": 153364100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-25",
+        "price": 160.67,
+        "volume": 121999300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-24",
+        "price": 162.55,
+        "volume": 140006600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-21",
+        "price": 165.08,
+        "volume": 123539000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-20",
+        "price": 162.99,
+        "volume": 210970800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-19",
+        "price": 180.59,
+        "volume": 125732700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-18",
+        "price": 184.31,
+        "volume": 92067000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-17",
+        "price": 187.04,
+        "volume": 116662200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-14",
+        "price": 185,
+        "volume": 96438700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-13",
+        "price": 185.9,
+        "volume": 112933000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-12",
+        "price": 180.54,
+        "volume": 150256300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-11",
+        "price": 186.79,
+        "volume": 115770900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-10",
+        "price": 184.51,
+        "volume": 142154600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-06",
+        "price": 185.06,
+        "volume": 123857900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-05",
+        "price": 185.52,
+        "volume": 133882500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-04",
+        "price": 192.58,
+        "volume": 126463800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-04-03",
+        "price": 194.77,
+        "volume": 169545900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-31",
+        "price": 207.46,
+        "volume": 170222100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-30",
+        "price": 195.28,
+        "volume": 110252200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-29",
+        "price": 193.88,
+        "volume": 123660000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-28",
+        "price": 189.19,
+        "volume": 98654600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-27",
+        "price": 191.81,
+        "volume": 120851600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-24",
+        "price": 190.41,
+        "volume": 116312400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-23",
+        "price": 192.22,
+        "volume": 144193900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-22",
+        "price": 191.15,
+        "volume": 150376400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-21",
+        "price": 197.58,
+        "volume": 153391400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-20",
+        "price": 183.25,
+        "volume": 129684400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-17",
+        "price": 180.13,
+        "volume": 133197100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-16",
+        "price": 184.13,
+        "volume": 121136800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-15",
+        "price": 180.45,
+        "volume": 145995600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-14",
+        "price": 183.26,
+        "volume": 143717900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-13",
+        "price": 174.48,
+        "volume": 167790300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-10",
+        "price": 173.44,
+        "volume": 191488900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-09",
+        "price": 172.92,
+        "volume": 170023800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-08",
+        "price": 182,
+        "volume": 151897800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-07",
+        "price": 187.71,
+        "volume": 148125800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-06",
+        "price": 193.81,
+        "volume": 128100100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-03",
+        "price": 197.79,
+        "volume": 154193300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-02",
+        "price": 190.9,
+        "volume": 181500700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-03-01",
+        "price": 202.77,
+        "volume": 156852800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-28",
+        "price": 205.71,
+        "volume": 153144900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-27",
+        "price": 207.63,
+        "volume": 161028300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-24",
+        "price": 196.88,
+        "volume": 142228100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-23",
+        "price": 202.07,
+        "volume": 146360000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-22",
+        "price": 200.86,
+        "volume": 191828500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-21",
+        "price": 197.37,
+        "volume": 180018600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-17",
+        "price": 208.31,
+        "volume": 213738500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-16",
+        "price": 202.04,
+        "volume": 229586500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-15",
+        "price": 214.24,
+        "volume": 181006400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-14",
+        "price": 209.25,
+        "volume": 216455700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-13",
+        "price": 194.64,
+        "volume": 172475500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-10",
+        "price": 196.89,
+        "volume": 204754100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-09",
+        "price": 207.32,
+        "volume": 215431400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-08",
+        "price": 201.29,
+        "volume": 180673600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-07",
+        "price": 196.81,
+        "volume": 186010300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-06",
+        "price": 194.76,
+        "volume": 186188100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-03",
+        "price": 189.98,
+        "volume": 232662000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-02",
+        "price": 188.27,
+        "volume": 217448300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-02-01",
+        "price": 181.41,
+        "volume": 213806300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-31",
+        "price": 173.22,
+        "volume": 196813500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-30",
+        "price": 166.66,
+        "volume": 230878800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-27",
+        "price": 177.9,
+        "volume": 306590600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-26",
+        "price": 160.27,
+        "volume": 234815100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-25",
+        "price": 144.43,
+        "volume": 192734300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-24",
+        "price": 143.89,
+        "volume": 158699100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-23",
+        "price": 143.75,
+        "volume": 203119200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-20",
+        "price": 133.42,
+        "volume": 138858100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-19",
+        "price": 127.17,
+        "volume": 170291900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-18",
+        "price": 128.78,
+        "volume": 195680300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-17",
+        "price": 131.49,
+        "volume": 186477000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-13",
+        "price": 122.4,
+        "volume": 180714100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-12",
+        "price": 123.56,
+        "volume": 169400900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-11",
+        "price": 123.22,
+        "volume": 183810800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-10",
+        "price": 118.85,
+        "volume": 167642500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-09",
+        "price": 119.77,
+        "volume": 190284000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-06",
+        "price": 113.06,
+        "volume": 220911100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-05",
+        "price": 110.34,
+        "volume": 157986300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-04",
+        "price": 113.64,
+        "volume": 180389000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2023-01-03",
+        "price": 108.1,
+        "volume": 231402800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-30",
+        "price": 123.18,
+        "volume": 157777300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-29",
+        "price": 121.82,
+        "volume": 221923300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-28",
+        "price": 112.71,
+        "volume": 221070500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-27",
+        "price": 109.1,
+        "volume": 208643400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-23",
+        "price": 123.15,
+        "volume": 166989700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-22",
+        "price": 125.35,
+        "volume": 210090300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-21",
+        "price": 137.57,
+        "volume": 145417400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-20",
+        "price": 137.8,
+        "volume": 159563300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-19",
+        "price": 149.87,
+        "volume": 139390600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-16",
+        "price": 150.23,
+        "volume": 139032200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-15",
+        "price": 157.67,
+        "volume": 122334500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-14",
+        "price": 156.8,
+        "volume": 140682300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-13",
+        "price": 160.95,
+        "volume": 175862700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-12",
+        "price": 167.82,
+        "volume": 109794500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-09",
+        "price": 179.05,
+        "volume": 104872300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-08",
+        "price": 173.44,
+        "volume": 97624500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-07",
+        "price": 174.04,
+        "volume": 84213300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-06",
+        "price": 179.82,
+        "volume": 92150800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-05",
+        "price": 182.45,
+        "volume": 93122700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-02",
+        "price": 194.86,
+        "volume": 73645900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-12-01",
+        "price": 194.7,
+        "volume": 80046200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-30",
+        "price": 194.7,
+        "volume": 109186400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-29",
+        "price": 180.83,
+        "volume": 83357100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-28",
+        "price": 182.92,
+        "volume": 92905200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-25",
+        "price": 182.86,
+        "volume": 50672700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-23",
+        "price": 183.2,
+        "volume": 109536700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-22",
+        "price": 169.91,
+        "volume": 78452300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-21",
+        "price": 167.87,
+        "volume": 92882700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-18",
+        "price": 180.19,
+        "volume": 76048900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-17",
+        "price": 183.17,
+        "volume": 64336000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-16",
+        "price": 186.92,
+        "volume": 66567600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-15",
+        "price": 194.42,
+        "volume": 91293800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-14",
+        "price": 190.95,
+        "volume": 92226600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-11",
+        "price": 195.97,
+        "volume": 114403600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-10",
+        "price": 190.72,
+        "volume": 132703000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-09",
+        "price": 177.59,
+        "volume": 127062700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-08",
+        "price": 191.3,
+        "volume": 128803400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-07",
+        "price": 197.08,
+        "volume": 93916500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-04",
+        "price": 207.47,
+        "volume": 98622200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-03",
+        "price": 215.31,
+        "volume": 56538800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-02",
+        "price": 214.98,
+        "volume": 63070300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-11-01",
+        "price": 227.82,
+        "volume": 62688800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-31",
+        "price": 227.54,
+        "volume": 61554300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-28",
+        "price": 228.52,
+        "volume": 69152400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-27",
+        "price": 225.09,
+        "volume": 61638800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-26",
+        "price": 224.64,
+        "volume": 85012500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-25",
+        "price": 222.42,
+        "volume": 96507900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-24",
+        "price": 211.25,
+        "volume": 100446800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-21",
+        "price": 214.44,
+        "volume": 75713800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-20",
+        "price": 207.28,
+        "volume": 117798100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-19",
+        "price": 222.04,
+        "volume": 66571500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-18",
+        "price": 220.19,
+        "volume": 75891900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-17",
+        "price": 219.35,
+        "volume": 79428800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-14",
+        "price": 204.99,
+        "volume": 94124500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-13",
+        "price": 221.72,
+        "volume": 91483000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-12",
+        "price": 217.24,
+        "volume": 66860700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-11",
+        "price": 216.5,
+        "volume": 77013200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-10",
+        "price": 222.96,
+        "volume": 67925000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-07",
+        "price": 223.07,
+        "volume": 83916800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-06",
+        "price": 238.13,
+        "volume": 69298400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-05",
+        "price": 240.81,
+        "volume": 86982700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-04",
+        "price": 249.44,
+        "volume": 109578500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-10-03",
+        "price": 242.4,
+        "volume": 98363500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-30",
+        "price": 265.25,
+        "volume": 67726600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-29",
+        "price": 268.21,
+        "volume": 77620600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-28",
+        "price": 287.81,
+        "volume": 54664800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-27",
+        "price": 282.94,
+        "volume": 61925200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-26",
+        "price": 276.01,
+        "volume": 58076900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-23",
+        "price": 275.33,
+        "volume": 63748400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-22",
+        "price": 288.59,
+        "volume": 70545400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-21",
+        "price": 300.8,
+        "volume": 62555700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-20",
+        "price": 308.73,
+        "volume": 61642800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-19",
+        "price": 309.07,
+        "volume": 60231200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-16",
+        "price": 303.35,
+        "volume": 87087800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-15",
+        "price": 303.75,
+        "volume": 64795500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-14",
+        "price": 302.61,
+        "volume": 72628700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-13",
+        "price": 292.13,
+        "volume": 68229600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-12",
+        "price": 304.42,
+        "volume": 48674600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-09",
+        "price": 299.68,
+        "volume": 54338100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-08",
+        "price": 289.26,
+        "volume": 53713100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-07",
+        "price": 283.7,
+        "volume": 50028900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-06",
+        "price": 274.42,
+        "volume": 55860000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-02",
+        "price": 270.21,
+        "volume": 50890100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-09-01",
+        "price": 277.16,
+        "volume": 54287000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-31",
+        "price": 275.61,
+        "volume": 52107300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-30",
+        "price": 277.7,
+        "volume": 50541800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-29",
+        "price": 284.82,
+        "volume": 41864700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-26",
+        "price": 288.09,
+        "volume": 57163900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-25",
+        "price": 296.07,
+        "volume": 53230000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-24",
+        "price": 297.1,
+        "volume": 57259800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-23",
+        "price": 296.45,
+        "volume": 63984900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-22",
+        "price": 289.91,
+        "volume": 55843200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-19",
+        "price": 296.67,
+        "volume": 61395300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-18",
+        "price": 302.87,
+        "volume": 47500500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-17",
+        "price": 304,
+        "volume": 68766000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-16",
+        "price": 306.56,
+        "volume": 88136400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-15",
+        "price": 309.32,
+        "volume": 89359200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-12",
+        "price": 300.03,
+        "volume": 79657200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-11",
+        "price": 286.63,
+        "volume": 70155000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-10",
+        "price": 294.36,
+        "volume": 94918800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-09",
+        "price": 283.33,
+        "volume": 86244600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-08",
+        "price": 290.42,
+        "volume": 98994000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-05",
+        "price": 288.17,
+        "volume": 113172900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-04",
+        "price": 308.63,
+        "volume": 72256200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-03",
+        "price": 307.4,
+        "volume": 80091000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-02",
+        "price": 300.59,
+        "volume": 95577600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-08-01",
+        "price": 297.28,
+        "volume": 117042900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-29",
+        "price": 297.15,
+        "volume": 95313000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-28",
+        "price": 280.9,
+        "volume": 84723000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-27",
+        "price": 274.82,
+        "volume": 88110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-26",
+        "price": 258.86,
+        "volume": 66820800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-25",
+        "price": 268.43,
+        "volume": 64073400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-22",
+        "price": 272.24,
+        "volume": 103472700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-21",
+        "price": 271.71,
+        "volume": 142032300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-20",
+        "price": 247.5,
+        "volume": 88864200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-19",
+        "price": 245.53,
+        "volume": 80890200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-18",
+        "price": 240.55,
+        "volume": 82537500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-15",
+        "price": 240.07,
+        "volume": 69683100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-14",
+        "price": 238.31,
+        "volume": 78557400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-13",
+        "price": 237.04,
+        "volume": 97954500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-12",
+        "price": 233.07,
+        "volume": 87930900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-11",
+        "price": 234.34,
+        "volume": 99241200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-08",
+        "price": 250.76,
+        "volume": 101854200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-07",
+        "price": 244.54,
+        "volume": 81930600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-06",
+        "price": 231.73,
+        "volume": 71853600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-05",
+        "price": 233.07,
+        "volume": 84581100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-07-01",
+        "price": 227.26,
+        "volume": 74460300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-30",
+        "price": 224.47,
+        "volume": 94600500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-29",
+        "price": 228.49,
+        "volume": 82897200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-28",
+        "price": 232.66,
+        "volume": 90391200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-27",
+        "price": 244.92,
+        "volume": 89178300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-24",
+        "price": 245.71,
+        "volume": 95770800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-23",
+        "price": 235.07,
+        "volume": 104202600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-22",
+        "price": 236.09,
+        "volume": 101107500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-21",
+        "price": 237.04,
+        "volume": 122793000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-17",
+        "price": 216.76,
+        "volume": 92641800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-16",
+        "price": 213.1,
+        "volume": 107390700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-15",
+        "price": 233,
+        "volume": 119131800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-14",
+        "price": 220.89,
+        "volume": 97988700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-13",
+        "price": 215.74,
+        "volume": 102767400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-10",
+        "price": 232.23,
+        "volume": 97536600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-09",
+        "price": 239.71,
+        "volume": 96491400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-08",
+        "price": 241.87,
+        "volume": 76210500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-07",
+        "price": 238.89,
+        "volume": 72808500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-06",
+        "price": 238.28,
+        "volume": 84204600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-03",
+        "price": 234.52,
+        "volume": 112393800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-02",
+        "price": 258.33,
+        "volume": 93473100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-06-01",
+        "price": 246.79,
+        "volume": 77247900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-31",
+        "price": 252.75,
+        "volume": 101914500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-27",
+        "price": 253.21,
+        "volume": 89295000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-26",
+        "price": 235.91,
+        "volume": 106003200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-25",
+        "price": 219.6,
+        "volume": 92139300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-24",
+        "price": 209.39,
+        "volume": 89092500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-23",
+        "price": 224.97,
+        "volume": 88903500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-20",
+        "price": 221.3,
+        "volume": 144973200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-19",
+        "price": 236.47,
+        "volume": 90296700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-18",
+        "price": 236.6,
+        "volume": 87811800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-17",
+        "price": 253.87,
+        "volume": 80236200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-16",
+        "price": 241.46,
+        "volume": 86098500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-13",
+        "price": 256.53,
+        "volume": 92150700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-12",
+        "price": 242.67,
+        "volume": 140313000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-11",
+        "price": 244.67,
+        "volume": 97224600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-10",
+        "price": 266.68,
+        "volume": 84401700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-09",
+        "price": 262.37,
+        "volume": 90810300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-06",
+        "price": 288.55,
+        "volume": 72903000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-05",
+        "price": 291.09,
+        "volume": 92519100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-04",
+        "price": 317.54,
+        "volume": 81643800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-03",
+        "price": 303.08,
+        "volume": 63709500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-05-02",
+        "price": 300.98,
+        "volume": 75781500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-29",
+        "price": 290.25,
+        "volume": 88133100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-28",
+        "price": 292.5,
+        "volume": 124948500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-27",
+        "price": 293.84,
+        "volume": 76956300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-26",
+        "price": 292.14,
+        "volume": 136133700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-25",
+        "price": 332.67,
+        "volume": 68341200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-22",
+        "price": 335.02,
+        "volume": 69696600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-21",
+        "price": 336.26,
+        "volume": 105416400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-20",
+        "price": 325.73,
+        "volume": 70711200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-19",
+        "price": 342.72,
+        "volume": 49847700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-18",
+        "price": 334.76,
+        "volume": 51715200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-14",
+        "price": 328.33,
+        "volume": 58422300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-13",
+        "price": 340.79,
+        "volume": 55121100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-12",
+        "price": 328.98,
+        "volume": 65976000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-11",
+        "price": 325.31,
+        "volume": 59357100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-08",
+        "price": 341.83,
+        "volume": 55013700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-07",
+        "price": 352.42,
+        "volume": 79447200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-06",
+        "price": 348.59,
+        "volume": 89348400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-05",
+        "price": 363.75,
+        "volume": 80075100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-04",
+        "price": 381.82,
+        "volume": 82035900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-04-01",
+        "price": 361.53,
+        "volume": 54263100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-31",
+        "price": 359.2,
+        "volume": 48992700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-30",
+        "price": 364.66,
+        "volume": 59865000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-29",
+        "price": 366.52,
+        "volume": 73614900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-28",
+        "price": 363.95,
+        "volume": 102506100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-25",
+        "price": 336.88,
+        "volume": 62031600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-24",
+        "price": 337.97,
+        "volume": 68920800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-23",
+        "price": 333.04,
+        "volume": 120676200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-22",
+        "price": 331.33,
+        "volume": 105868500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-21",
+        "price": 307.05,
+        "volume": 81981600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-18",
+        "price": 301.8,
+        "volume": 100414200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-17",
+        "price": 290.53,
+        "volume": 66582900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-16",
+        "price": 280.08,
+        "volume": 84028800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-15",
+        "price": 267.3,
+        "volume": 66841200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-14",
+        "price": 255.46,
+        "volume": 71152200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-11",
+        "price": 265.12,
+        "volume": 67037100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-10",
+        "price": 279.43,
+        "volume": 58648500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-09",
+        "price": 286.32,
+        "volume": 59184000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-08",
+        "price": 274.8,
+        "volume": 80399100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-07",
+        "price": 268.19,
+        "volume": 72494100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-04",
+        "price": 279.43,
+        "volume": 66999600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-03",
+        "price": 279.76,
+        "volume": 61623600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-02",
+        "price": 293.3,
+        "volume": 74643300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-03-01",
+        "price": 288.12,
+        "volume": 74766900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-28",
+        "price": 290.14,
+        "volume": 99006900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-25",
+        "price": 269.96,
+        "volume": 76067700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-24",
+        "price": 266.92,
+        "volume": 135322200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-23",
+        "price": 254.68,
+        "volume": 95256900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-22",
+        "price": 273.84,
+        "volume": 83288100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-18",
+        "price": 285.66,
+        "volume": 68501700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-17",
+        "price": 292.12,
+        "volume": 55178400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-16",
+        "price": 307.8,
+        "volume": 51294300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-15",
+        "price": 307.48,
+        "volume": 57286200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-14",
+        "price": 291.92,
+        "volume": 67756500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-11",
+        "price": 286.67,
+        "volume": 79645800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-10",
+        "price": 301.52,
+        "volume": 66126900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-09",
+        "price": 310.67,
+        "volume": 52259400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-08",
+        "price": 307.33,
+        "volume": 50729100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-07",
+        "price": 302.45,
+        "volume": 60994500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-04",
+        "price": 307.77,
+        "volume": 73625400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-03",
+        "price": 297.05,
+        "volume": 78855600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-02",
+        "price": 301.89,
+        "volume": 66792900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-02-01",
+        "price": 310.42,
+        "volume": 73138200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-31",
+        "price": 312.24,
+        "volume": 104436000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-28",
+        "price": 282.12,
+        "volume": 134789100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-27",
+        "price": 276.37,
+        "volume": 147109500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-26",
+        "price": 312.47,
+        "volume": 104867400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-25",
+        "price": 306.13,
+        "volume": 86595900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-24",
+        "price": 310,
+        "volume": 151565700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-21",
+        "price": 314.63,
+        "volume": 103416000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-20",
+        "price": 332.09,
+        "volume": 70488600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-19",
+        "price": 331.88,
+        "volume": 75442500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-18",
+        "price": 343.5,
+        "volume": 66743400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-14",
+        "price": 349.87,
+        "volume": 72924300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-13",
+        "price": 343.85,
+        "volume": 97209900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-12",
+        "price": 368.74,
+        "volume": 83739000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-11",
+        "price": 354.8,
+        "volume": 66063300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-10",
+        "price": 352.71,
+        "volume": 91815000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-07",
+        "price": 342.32,
+        "volume": 84164700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-06",
+        "price": 354.9,
+        "volume": 90336600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-05",
+        "price": 362.71,
+        "volume": 80119800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-04",
+        "price": 383.2,
+        "volume": 100248300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2022-01-03",
+        "price": 399.93,
+        "volume": 103931400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-31",
+        "price": 352.26,
+        "volume": 40733700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-30",
+        "price": 356.78,
+        "volume": 47040900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-29",
+        "price": 362.06,
+        "volume": 56154000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-28",
+        "price": 362.82,
+        "volume": 60324000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-27",
+        "price": 364.65,
+        "volume": 71145900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-23",
+        "price": 355.67,
+        "volume": 92713200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-22",
+        "price": 336.29,
+        "volume": 93634200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-21",
+        "price": 312.84,
+        "volume": 71517900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-20",
+        "price": 299.98,
+        "volume": 56480100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-17",
+        "price": 310.86,
+        "volume": 100437300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-16",
+        "price": 308.97,
+        "volume": 82771500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-15",
+        "price": 325.33,
+        "volume": 75169200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-14",
+        "price": 319.5,
+        "volume": 70806300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-13",
+        "price": 322.14,
+        "volume": 78595500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-10",
+        "price": 339.01,
+        "volume": 59664300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-09",
+        "price": 334.6,
+        "volume": 59438400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-08",
+        "price": 356.32,
+        "volume": 41906400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-07",
+        "price": 350.58,
+        "volume": 56084700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-06",
+        "price": 336.34,
+        "volume": 81663000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-03",
+        "price": 338.32,
+        "volume": 92322000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-02",
+        "price": 361.53,
+        "volume": 73114800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-12-01",
+        "price": 365,
+        "volume": 68450400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-30",
+        "price": 381.59,
+        "volume": 81276000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-29",
+        "price": 379,
+        "volume": 58393500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-26",
+        "price": 360.64,
+        "volume": 35042700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-24",
+        "price": 372,
+        "volume": 67680600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-23",
+        "price": 369.68,
+        "volume": 108515100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-22",
+        "price": 385.62,
+        "volume": 99217500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-19",
+        "price": 379.02,
+        "volume": 64926900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-18",
+        "price": 365.46,
+        "volume": 62696700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-17",
+        "price": 363,
+        "volume": 94336200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-16",
+        "price": 351.58,
+        "volume": 79627200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-15",
+        "price": 337.8,
+        "volume": 104326800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-12",
+        "price": 344.47,
+        "volume": 76719300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-11",
+        "price": 354.5,
+        "volume": 67189800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-10",
+        "price": 355.98,
+        "volume": 128408100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-09",
+        "price": 341.17,
+        "volume": 177317400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-08",
+        "price": 387.65,
+        "volume": 100337100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-05",
+        "price": 407.36,
+        "volume": 64886400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-04",
+        "price": 409.97,
+        "volume": 76192200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-03",
+        "price": 404.62,
+        "volume": 103885500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-02",
+        "price": 390.67,
+        "volume": 128213400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-11-01",
+        "price": 402.86,
+        "volume": 168146100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-29",
+        "price": 371.33,
+        "volume": 89755200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-28",
+        "price": 359.01,
+        "volume": 81639600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-27",
+        "price": 345.95,
+        "volume": 115579500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-26",
+        "price": 339.48,
+        "volume": 187245000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-25",
+        "price": 341.62,
+        "volume": 188556300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-22",
+        "price": 303.23,
+        "volume": 68642400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-21",
+        "price": 298,
+        "volume": 94444500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-20",
+        "price": 288.6,
+        "volume": 42096300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-19",
+        "price": 288.09,
+        "volume": 52143300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-18",
+        "price": 290.04,
+        "volume": 72621600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-15",
+        "price": 281.01,
+        "volume": 56773800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-14",
+        "price": 272.77,
+        "volume": 36741600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-13",
+        "price": 270.36,
+        "volume": 42360300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-12",
+        "price": 268.57,
+        "volume": 66060000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-11",
+        "price": 263.98,
+        "volume": 42600900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-08",
+        "price": 261.83,
+        "volume": 50215800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-07",
+        "price": 264.54,
+        "volume": 57587400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-06",
+        "price": 260.92,
+        "volume": 43898400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-05",
+        "price": 260.2,
+        "volume": 55297800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-04",
+        "price": 260.51,
+        "volume": 91449900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-10-01",
+        "price": 258.41,
+        "volume": 51094200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-30",
+        "price": 258.49,
+        "volume": 53868000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-29",
+        "price": 260.44,
+        "volume": 62828700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-28",
+        "price": 259.19,
+        "volume": 76144200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-27",
+        "price": 263.79,
+        "volume": 84212100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-24",
+        "price": 258.13,
+        "volume": 64119000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-23",
+        "price": 251.21,
+        "volume": 35842500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-22",
+        "price": 250.65,
+        "volume": 45378900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-21",
+        "price": 246.46,
+        "volume": 48992100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-20",
+        "price": 243.39,
+        "volume": 74273100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-17",
+        "price": 253.16,
+        "volume": 84612600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-16",
+        "price": 252.33,
+        "volume": 41770200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-15",
+        "price": 251.94,
+        "volume": 46073100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-14",
+        "price": 248.16,
+        "volume": 55574700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-13",
+        "price": 247.67,
+        "volume": 68857500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-10",
+        "price": 245.42,
+        "volume": 45552600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-09",
+        "price": 251.62,
+        "volume": 42233100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-08",
+        "price": 251.29,
+        "volume": 56379000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-07",
+        "price": 250.97,
+        "volume": 60119400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-03",
+        "price": 244.52,
+        "volume": 45738300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-02",
+        "price": 244.13,
+        "volume": 38331900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-09-01",
+        "price": 244.7,
+        "volume": 39612900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-31",
+        "price": 245.24,
+        "volume": 62566200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-30",
+        "price": 243.64,
+        "volume": 55812600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-27",
+        "price": 237.31,
+        "volume": 41501400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-26",
+        "price": 233.72,
+        "volume": 39642900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-25",
+        "price": 237.07,
+        "volume": 37936800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-24",
+        "price": 236.16,
+        "volume": 39249300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-23",
+        "price": 235.43,
+        "volume": 60794700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-20",
+        "price": 226.75,
+        "volume": 44525700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-19",
+        "price": 224.49,
+        "volume": 42940500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-18",
+        "price": 229.66,
+        "volume": 61048200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-17",
+        "price": 221.9,
+        "volume": 71163900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-16",
+        "price": 228.72,
+        "volume": 68032200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-13",
+        "price": 239.06,
+        "volume": 50194500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-12",
+        "price": 240.75,
+        "volume": 52377300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-11",
+        "price": 235.94,
+        "volume": 29401800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-10",
+        "price": 236.66,
+        "volume": 40296900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-09",
+        "price": 237.92,
+        "volume": 44145900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-06",
+        "price": 233.03,
+        "volume": 46869000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-05",
+        "price": 238.21,
+        "volume": 38758800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-04",
+        "price": 236.97,
+        "volume": 51007800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-03",
+        "price": 236.58,
+        "volume": 64860900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-08-02",
+        "price": 236.56,
+        "volume": 100847400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-30",
+        "price": 229.07,
+        "volume": 88969200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-29",
+        "price": 225.78,
+        "volume": 91183800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-28",
+        "price": 215.66,
+        "volume": 48019800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-27",
+        "price": 214.93,
+        "volume": 98439900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-26",
+        "price": 219.21,
+        "volume": 76009800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-23",
+        "price": 214.46,
+        "volume": 43814700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-22",
+        "price": 216.42,
+        "volume": 45317100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-21",
+        "price": 218.43,
+        "volume": 41859900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-20",
+        "price": 220.17,
+        "volume": 46461300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-19",
+        "price": 215.41,
+        "volume": 63891300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-16",
+        "price": 214.74,
+        "volume": 49113000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-15",
+        "price": 216.87,
+        "volume": 60628800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-14",
+        "price": 217.79,
+        "volume": 64923600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-13",
+        "price": 222.85,
+        "volume": 62898300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-12",
+        "price": 228.57,
+        "volume": 77781000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-09",
+        "price": 218.98,
+        "volume": 54421500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-08",
+        "price": 217.6,
+        "volume": 68319900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-07",
+        "price": 214.88,
+        "volume": 56376000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-06",
+        "price": 219.86,
+        "volume": 69853500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-02",
+        "price": 226.3,
+        "volume": 81163500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-07-01",
+        "price": 225.97,
+        "volume": 55903500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-30",
+        "price": 226.57,
+        "volume": 56774700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-29",
+        "price": 226.92,
+        "volume": 52143900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-28",
+        "price": 229.57,
+        "volume": 64884600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-25",
+        "price": 223.96,
+        "volume": 97490100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-24",
+        "price": 226.61,
+        "volume": 137947200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-23",
+        "price": 218.86,
+        "volume": 93297600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-22",
+        "price": 207.9,
+        "volume": 57476700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-21",
+        "price": 206.94,
+        "volume": 74438100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-18",
+        "price": 207.77,
+        "volume": 73682700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-17",
+        "price": 205.53,
+        "volume": 68104200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-16",
+        "price": 201.62,
+        "volume": 66432300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-15",
+        "price": 199.79,
+        "volume": 53292300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-14",
+        "price": 205.9,
+        "volume": 61272000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-11",
+        "price": 203.3,
+        "volume": 48615900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-10",
+        "price": 203.37,
+        "volume": 71758800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-09",
+        "price": 199.59,
+        "volume": 49753800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-08",
+        "price": 201.2,
+        "volume": 78160200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-07",
+        "price": 201.71,
+        "volume": 67631100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-04",
+        "price": 199.68,
+        "volume": 72110700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-03",
+        "price": 190.95,
+        "volume": 90335700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-02",
+        "price": 201.71,
+        "volume": 69908400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-06-01",
+        "price": 207.97,
+        "volume": 54254700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-28",
+        "price": 208.41,
+        "volume": 68211000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-27",
+        "price": 210.28,
+        "volume": 79111800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-26",
+        "price": 206.38,
+        "volume": 85917900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-25",
+        "price": 201.56,
+        "volume": 84017700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-24",
+        "price": 202.15,
+        "volume": 103674300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-21",
+        "price": 193.63,
+        "volume": 78091800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-20",
+        "price": 195.59,
+        "volume": 92463300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-19",
+        "price": 187.82,
+        "volume": 118735200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-18",
+        "price": 192.62,
+        "volume": 110491800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-17",
+        "price": 192.28,
+        "volume": 97171200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-14",
+        "price": 196.58,
+        "volume": 100112700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-13",
+        "price": 190.56,
+        "volume": 132554700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-12",
+        "price": 196.63,
+        "volume": 101470800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-11",
+        "price": 205.73,
+        "volume": 139511700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-10",
+        "price": 209.68,
+        "volume": 94177200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-07",
+        "price": 224.12,
+        "volume": 70407600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-06",
+        "price": 221.18,
+        "volume": 83353800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-05",
+        "price": 223.65,
+        "volume": 65705700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-04",
+        "price": 224.53,
+        "volume": 89217900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-05-03",
+        "price": 228.3,
+        "volume": 81129300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-30",
+        "price": 236.48,
+        "volume": 122276100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-29",
+        "price": 225.67,
+        "volume": 86536200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-28",
+        "price": 231.47,
+        "volume": 66813000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-27",
+        "price": 234.91,
+        "volume": 88311000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-26",
+        "price": 246.07,
+        "volume": 93115500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-23",
+        "price": 243.13,
+        "volume": 85110000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-22",
+        "price": 239.9,
+        "volume": 106770900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-21",
+        "price": 248.04,
+        "volume": 93646500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-20",
+        "price": 239.66,
+        "volume": 106827000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-19",
+        "price": 238.21,
+        "volume": 119058600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-16",
+        "price": 246.59,
+        "volume": 83938500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-15",
+        "price": 246.28,
+        "volume": 83546700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-14",
+        "price": 244.08,
+        "volume": 147052200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-13",
+        "price": 254.11,
+        "volume": 133958400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-12",
+        "price": 233.99,
+        "volume": 87407100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-09",
+        "price": 225.67,
+        "volume": 64311300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-08",
+        "price": 227.93,
+        "volume": 71772900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-07",
+        "price": 223.66,
+        "volume": 78928200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-06",
+        "price": 230.54,
+        "volume": 84815400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-05",
+        "price": 230.35,
+        "volume": 125528400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-04-01",
+        "price": 220.58,
+        "volume": 105895200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-31",
+        "price": 222.64,
+        "volume": 100011900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-30",
+        "price": 211.87,
+        "volume": 118297200
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-29",
+        "price": 203.76,
+        "volume": 85911000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-26",
+        "price": 206.24,
+        "volume": 101558400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-25",
+        "price": 213.46,
+        "volume": 117674700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-24",
+        "price": 210.09,
+        "volume": 101385600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-23",
+        "price": 220.72,
+        "volume": 91475700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-22",
+        "price": 223.33,
+        "volume": 118536600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-19",
+        "price": 218.29,
+        "volume": 128682000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-18",
+        "price": 217.72,
+        "volume": 99674400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-17",
+        "price": 233.94,
+        "volume": 121117500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-16",
+        "price": 225.63,
+        "volume": 96587100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-15",
+        "price": 235.98,
+        "volume": 88006800
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-12",
+        "price": 231.24,
+        "volume": 100751400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-11",
+        "price": 233.2,
+        "volume": 108761700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-10",
+        "price": 222.69,
+        "volume": 181817100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-09",
+        "price": 224.53,
+        "volume": 202569900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-08",
+        "price": 187.67,
+        "volume": 155361000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-05",
+        "price": 199.32,
+        "volume": 268189500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-04",
+        "price": 207.15,
+        "volume": 197758500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-03",
+        "price": 217.73,
+        "volume": 90624000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-02",
+        "price": 228.81,
+        "volume": 71196600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-03-01",
+        "price": 239.48,
+        "volume": 81408600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-26",
+        "price": 225.17,
+        "volume": 123267600
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-25",
+        "price": 227.41,
+        "volume": 117071700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-24",
+        "price": 247.34,
+        "volume": 110301000
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-23",
+        "price": 232.95,
+        "volume": 199820700
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-22",
+        "price": 238.17,
+        "volume": 111809100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-19",
+        "price": 260.43,
+        "volume": 56874900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-18",
+        "price": 262.46,
+        "volume": 53871300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-17",
+        "price": 266.05,
+        "volume": 77989500
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-16",
+        "price": 265.41,
+        "volume": 59406900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-12",
+        "price": 272.04,
+        "volume": 71304900
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-11",
+        "price": 270.55,
+        "volume": 64868400
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-10",
+        "price": 268.27,
+        "volume": 108648300
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-09",
+        "price": 283.15,
+        "volume": 45473100
+    },
+    {
+        "symbol": "TSLA",
+        "date": "2021-02-08",
+        "price": 287.81,
+        "volume": 60485100
+    }
+]
