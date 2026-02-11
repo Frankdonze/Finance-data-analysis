@@ -1,0 +1,34 @@
+Tables
+
+- Company
+	fields:
+		- symbol (PK)
+		- companyName
+		- sector
+		- industry
+		- country
+		- exchange
+		- currency
+		- ceo
+		- employees
+
+- marketData
+	fields:
+		- id (pk)
+		- symbol
+		- timestamp
+		- price
+		- market_cap
+		- volume
+		- change_percentage
+		- is_actively_trading
+
+- eodMarketData
+	fields:
+		- id (pk)
+		- symbol
+		- date
+		- price
+		- volume
+
+ 
