@@ -124,7 +124,7 @@ resource "aws_security_group" "allow-ssh" {
 		from_port = 22
 		to_port = 22
 		protocol = "tcp"
-		cidr_blocks = ["0.0.0.0/0"]
+		cidr_blocks = ["76.193.44.238/32"]
 	}
 
 	egress {
@@ -133,6 +133,29 @@ resource "aws_security_group" "allow-ssh" {
 		protocol = "-1"
 		cidr_blocks = ["0.0.0.0/0"]
 	}
+
+
+
+}
+
+resource "aws_security_group" "allow-rdp" {
+        name = "allow-rdp-sg"
+        description = "Allow RDP to connect to Instances"
+        vpc_id = aws_vpc.dataprj.id
+
+        ingress {
+                from_port = 3389
+                to_port = 3389
+                protocol = "tcp"
+                cidr_blocks = ["76.193.44.238/32"]
+        }
+
+        egress {
+                from_port = 0
+                to_port = 0
+                protocol = "-1"
+                cidr_blocks = ["0.0.0.0/0"]
+        }
 
 
 
@@ -156,3 +179,21 @@ resource "aws_instance" "cloudworkspace" {
 	}
 
 }
+
+resource "aws_instance" "powerbi" {
+        ami = "ami-08a907777e5410897"
+        instance_type = "t2.medium"
+        key_name = "keypair"
+        subnet_id = aws_subnet.dataprj-public-sub.id
+	get_password_data = true
+
+        vpc_security_group_ids = [
+                aws_security_group.allow-rdp.id
+        ]
+
+        tags = {
+                Name = "powerBI"
+        }
+
+}
+
