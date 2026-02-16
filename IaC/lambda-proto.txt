@@ -1,0 +1,17 @@
+These things need to be coded after prototyping:
+
+S3 bucket for file transfer
+
+IAM 
+- create role
+- create policy for s3 
+
+lambda funtion
+- lambda layer using zip file
+- IAM permissions to write to S3
+	- role needs to be written and referenced in lambda resource
+	- need to create policy to strictly allow writing objects to s3 or could grant full access.
+- enviornment variable in the function
+
+eventbright
+- code it

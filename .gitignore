@@ -20,3 +20,4 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 IaC/client-vpn-certs/*
+etl/extracts/python/*

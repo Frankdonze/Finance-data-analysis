@@ -1,35 +1,37 @@
-Personal Finance Analysis Platform
+Stock Market Analysis Data Pipeline and Analysis
 
-Data Engineering MVP
+Data Engineering
 
 Overview
 
-This project is an end-to-end cloud-based data engineering pipeline for analyzing personal financial transaction data. It ingests raw financial records, cleans and structures them, stores them in analytics-ready formats, and enables SQL-based analysis and dashboarding.
+This project is an end-to-end cloud-based data engineering pipeline for analyzing stock market data. It ingests raw stock market data, cleans, and enables SQL-based analysis and dashboarding.
 
-The focus is on building a minimum viable product (MVP) that demonstrates core data engineering skills, including cloud infrastructure, ETL pipelines, data modeling, and analytical workflows.
+The focus is on building a pipeline that demonstrates core data engineering skills, including cloud infrastructure, ETL pipelines, data modeling, and analytical workflows.
 
 Key Questions
 
-How do spending patterns change over time?
+Which company had the highest total return over 1 year? 3 years? 5 years?
 
-How do different expense categories impact cash flow and savings?
+Which stock recovered fastest after market downturns?
 
-How has overall financial health evolved over time?
+Which stock has the highest price volatility?
+
+If $10,000 were invested equally in all four, what would the portfolio value be today?
 
 Architecture
 
-Raw Financial Files
-→ Amazon S3 (Bronze – Raw Data)
-→ Python ETL (EC2) - potentially move to lambda in future
-→ Amazon S3 (Silver – Cleaned)
-→ Amazon RDS (PostgreSQL – Gold Analytics Layer)
-→ SQL Queries
-→ Power BI Dashboards
+- Data from public financial API
+- Amazon S3 (Bronze – Raw Data)
+- Python ETL (EC2/lambda) - first iteration on EC2 / Now developing automated version with eventbright and lambda function
+- Amazon S3 (Silver – Cleaned)
+- Amazon RDS (PostgreSQL – Gold Analytics Layer)
+- SQL Queries
+- Power BI Dashboards
 
 Data Layers
 Bronze (Raw)
 
-Original financial transaction files (CSV, OFX, bank exports)
+Original financial transaction files (json)
 
 Stored in Amazon S3
 
@@ -37,9 +39,7 @@ Immutable and preserved for reprocessing
 
 Silver (Cleaned)
 
-Parsed and standardized transaction-level data
-
-Normalized timestamps, currencies, and categories
+Parsed and split api calls into seperate json files to organise for different tables in Database
 
 Gold (Analytics)
 
@@ -49,13 +49,13 @@ Optimized for SQL queries and BI tools
 
 Technologies Used
 
-Cloud: AWS (S3, EC2, RDS, IAM)
+Cloud: AWS (S3, EC2, RDS, IAM, lambda, eventbright)
 
 Infrastructure as Code: Terraform
 
-ETL / Processing: Python (pandas, pyarrow)
+ETL / Processing: Python
 
-Storage Format: Parquet
+Storage Format: json
 
 Database: PostgreSQL (Amazon RDS)
 
@@ -67,17 +67,15 @@ Version Control: Git & GitHub
 
 ETL Workflow
 
-Upload raw financial files to Amazon S3 (Bronze)
+pull json data from api
+
+write api calls to json files and place in  Amazon S3 (Bronze)
 
 Process data with Python:
 
-Normalize timestamps and currencies
+organized data into seperate json files correlating to tables in DB
 
-Categorize transactions (income vs expenses)
-
-Clean and validate records
-
-Write cleaned data to Amazon S3 as Parquet (Silver)
+Write cleaned data to Amazon S3 (Silver)
 
 Load analytics-ready tables into PostgreSQL (Gold)
 
@@ -85,26 +83,18 @@ Analytics & Insights
 
 Example analyses include:
 
-Spending trends by category
+avg daily price change weekly, monthly, yearly
 
-Income vs expense (cash flow) analysis
+7 day moving average price
 
-Savings rate over time
+Average daily volume over a period
 
-Long-term financial health indicators
+trading volume spikes
+
+mock investments and returns
 
 Insights are queried using SQL and visualized using Power BI dashboards.
 
 Infrastructure
 
 All cloud infrastructure for this project is provisioned using Terraform and deployed on AWS.
-
-AWS Resources
-
-Amazon S3: Raw and cleaned data storage (Bronze and Silver layers)
-
-Amazon RDS (PostgreSQL): Relational analytics database (Gold layer)
-
-IAM Roles and Policies: Secure access between services
-
-Terraform state files and credentials are excluded from version control to ensure security.
