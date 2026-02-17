@@ -6,6 +6,10 @@ resource "aws_s3_bucket" "s3-data" {
 	bucket = "bron-silv-data"
 }
 
+resource "aws_s3_bucket" "file-transfers"
+	bucket = "filetransfers"
+}
+
 ##############################
 #RDS Postgres
 ##############################
@@ -197,3 +201,70 @@ resource "aws_instance" "powerbi" {
 
 }
 
+#################################
+#IAM Roles & policies
+#################################
+
+
+#IAM role for company info api extraction function
+
+resource "aws_iam_role" "comp-info-lambda" {
+	name = "comp-info-lambda"
+	assume_role_policy = aws_iam_policy_document.instance_assume_role_policy.json
+}
+
+
+#Attaches basic lambda execuction policy to company info api extraction lambda function
+
+resource "aws_iam_role_policy_attachment" "basiclambdaexec-for-comp-info-func" {
+	role = aws_iam_role.comp-info-lambda.name
+	policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+}
+
+
+#Attaches s3 write policy to company info api extraction lambda function
+
+resource "aws_iam_role_policy_attachment" "s3write-for-comp-info-func" {
+	role = aws_iam_role.comp-info-lambda.name
+	policy_arn = "aws_iam_policy.allow-s3-write.arn"
+}
+
+
+#Creates policy to allow writing objects to s3
+
+resource "aws_iam_policy" "allow-s3-write" {
+	name = "allow-s3-write"
+	policy = jsonencode({
+		Version = "2026-02-16"
+		statement = [
+		{
+		Action = ["s3:PutObject"]
+		Effect = "Allow"
+		resource = "*"
+		},
+		]
+	})
+}
+
+#################################
+#Serverless
+#################################
+
+data "archive_file" "extract-compinfo-zip" {
+	type = "zip"
+	source_dir = "../etl/extracts/python"
+}
+
+resource "aws_lambda_layer_version" "python" {
+	filename = "python.zip"
+	layer_name = "python"
+	descritption = "python dependencies"
+	compatible_runtimes = ["python3.12"]
+}
+
+resource "aws_lambda_function" "extract-company-info" {
+	function_name = "extract-company-info"
+	filename = "/home/lam-comp-info.zip"
+	runtime = "python3.12"
+	
+}
