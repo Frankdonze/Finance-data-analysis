@@ -6,8 +6,8 @@ resource "aws_s3_bucket" "s3-data" {
 	bucket = "bron-silv-data"
 }
 
-resource "aws_s3_bucket" "file-transfers"
-	bucket = "filetransfers"
+resource "aws_s3_bucket" "file-transfers" {
+	bucket = "frankstransfers"
 }
 
 ##############################
@@ -165,6 +165,11 @@ resource "aws_security_group" "allow-rdp" {
 
 }
 
+data "aws_security_group" "ec2-rds-1" {
+  id = "sg-01ac899e601299db7"
+}
+
+
 ###############################
 #Compute configuration
 ###############################
@@ -175,7 +180,8 @@ resource "aws_instance" "cloudworkspace" {
 	subnet_id = aws_subnet.dataprj-public-sub.id
 
 	vpc_security_group_ids = [
-		aws_security_group.allow-ssh.id
+		aws_security_group.allow-ssh.id,
+		data.aws_security_group.ec2-rds-1.id
 	]
 
 	tags = {
@@ -186,13 +192,14 @@ resource "aws_instance" "cloudworkspace" {
 
 resource "aws_instance" "powerbi" {
         ami = "ami-08a907777e5410897"
-        instance_type = "t2.medium"
+        instance_type = "t2.large"
         key_name = "keypair"
         subnet_id = aws_subnet.dataprj-public-sub.id
 	get_password_data = true
 
         vpc_security_group_ids = [
-                aws_security_group.allow-rdp.id
+                aws_security_group.allow-rdp.id,
+		data.aws_security_group.ec2-rds-1.id
         ]
 
         tags = {
@@ -210,7 +217,16 @@ resource "aws_instance" "powerbi" {
 
 resource "aws_iam_role" "comp-info-lambda" {
 	name = "comp-info-lambda"
-	assume_role_policy = aws_iam_policy_document.instance_assume_role_policy.json
+	assume_role_policy = jsonencode({ 
+		Version = "2012-10-17" 
+		Statement = [{ 
+			Effect = "Allow" 
+				Principal = { 
+					Service = "lambda.amazonaws.com" 
+				} 
+			Action = "sts:AssumeRole" 
+		}] 
+	}) 
 }
 
 
@@ -226,7 +242,7 @@ resource "aws_iam_role_policy_attachment" "basiclambdaexec-for-comp-info-func" {
 
 resource "aws_iam_role_policy_attachment" "s3write-for-comp-info-func" {
 	role = aws_iam_role.comp-info-lambda.name
-	policy_arn = "aws_iam_policy.allow-s3-write.arn"
+	policy_arn = aws_iam_policy.allow-s3-write.arn
 }
 
 
@@ -235,13 +251,13 @@ resource "aws_iam_role_policy_attachment" "s3write-for-comp-info-func" {
 resource "aws_iam_policy" "allow-s3-write" {
 	name = "allow-s3-write"
 	policy = jsonencode({
-		Version = "2026-02-16"
-		statement = [
+		Version = "2012-10-17"
+		Statement = [
 		{
 		Action = ["s3:PutObject"]
 		Effect = "Allow"
-		resource = "*"
-		},
+		Resource = "*"
+		}
 		]
 	})
 }
@@ -252,19 +268,30 @@ resource "aws_iam_policy" "allow-s3-write" {
 
 data "archive_file" "extract-compinfo-zip" {
 	type = "zip"
-	source_dir = "../etl/extracts/python"
+	source_file = "../etl/extracts/comp-info-lambda.py"
+	output_path = "${path.root}/lambda-iac/comp-info-lambda.zip"
 }
 
 resource "aws_lambda_layer_version" "python" {
-	filename = "python.zip"
+	filename = "${path.root}/lambda-layer-zip/python.zip"
 	layer_name = "python"
-	descritption = "python dependencies"
+	description = "python dependencies"
 	compatible_runtimes = ["python3.12"]
 }
 
 resource "aws_lambda_function" "extract-company-info" {
 	function_name = "extract-company-info"
-	filename = "/home/lam-comp-info.zip"
+	filename = "${path.root}/lambda-iac/comp-info-lambda.zip"
+	role = aws_iam_role.comp-info-lambda.arn
+	handler = "comp-info-lambda.lambda_handler"
+	code_sha256   = data.archive_file.extract-compinfo-zip.output_base64sha256
 	runtime = "python3.12"
+	layers = [aws_lambda_layer_version.python.arn]
+
+	environment {
+		variables = {
+			APIKEY = var.api_key
+		}
+	}
 	
 }
