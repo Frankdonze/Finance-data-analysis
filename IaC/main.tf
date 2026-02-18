@@ -245,6 +245,80 @@ resource "aws_iam_role_policy_attachment" "s3write-for-comp-info-func" {
 	policy_arn = aws_iam_policy.allow-s3-write.arn
 }
 
+#IAM role for stock price info api extraction function
+
+resource "aws_iam_role" "stock-price-lambda" {
+        name = "stock-price-lambda"
+        assume_role_policy = jsonencode({
+                Version = "2012-10-17"
+                Statement = [{
+                        Effect = "Allow"
+                                Principal = {
+                                        Service = "lambda.amazonaws.com"
+                                }
+                        Action = "sts:AssumeRole"
+                }]
+        })
+}
+
+
+#Attaches basic lambda execuction policy to stock price api extraction lambda function
+
+resource "aws_iam_role_policy_attachment" "basiclambdaexec-for-stock-price-func" {
+        role = aws_iam_role.stock-price-lambda.name
+        policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+}
+
+
+#Attaches s3 write policy to stock price api extraction lambda function
+
+resource "aws_iam_role_policy_attachment" "s3write-for-stock-price-func" {
+        role = aws_iam_role.stock-price-lambda.name
+        policy_arn = aws_iam_policy.allow-s3-write.arn
+}
+
+#IAM role for transforming bronze company info data into silver ready to load data function
+
+resource "aws_iam_role" "trans-compinfo-lambda" {
+        name = "trans-compinfo-lambda"
+        assume_role_policy = jsonencode({
+                Version = "2012-10-17"
+                Statement = [{
+                        Effect = "Allow"
+                                Principal = {
+                                        Service = "lambda.amazonaws.com"
+                                }
+                        Action = "sts:AssumeRole"
+                }]
+        })
+}
+
+
+#Attaches basic lambda execuction policy to transform companyinfo lambda function
+
+resource "aws_iam_role_policy_attachment" "basiclambdaexec-for-trans-compinfo-func" {
+        role = aws_iam_role.trans-compinfo-lambda.name
+        policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+}
+
+
+#Attaches s3 write policy to transform companyinfo lambda function
+
+resource "aws_iam_role_policy_attachment" "s3write-for-trans-compinfo-func" {
+        role = aws_iam_role.trans-compinfo-lambda.name
+        policy_arn = aws_iam_policy.allow-s3-write.arn
+}
+
+#Attaches s3 rread policy to transform-company-info lambda function
+
+resource "aws_iam_role_policy_attachment" "s3read-for-trans-compinfo-func" {
+        role = aws_iam_role.trans-compinfo-lambda.name
+        policy_arn = aws_iam_policy.allow-s3-read.arn
+}
+
+
+
+
 
 #Creates policy to allow writing objects to s3
 
@@ -262,21 +336,40 @@ resource "aws_iam_policy" "allow-s3-write" {
 	})
 }
 
+#Creates policy to allow reading objects from s3
+
+resource "aws_iam_policy" "allow-s3-read" {
+        name = "allow-s3-read"
+        policy = jsonencode({
+                Version = "2012-10-17"
+                Statement = [
+                {
+                Action = ["s3:GetObject"]
+                Effect = "Allow"
+                Resource = "*"
+                }
+                ]
+        })
+}
+
+
 #################################
 #Serverless
 #################################
 
+resource "aws_lambda_layer_version" "python" {
+        filename = "${path.root}/lambda-layer-zip/python.zip"
+        layer_name = "python"
+        description = "python dependencies"
+        compatible_runtimes = ["python3.12"]
+}
+
+
+#This function extracts companyinfo data from api
 data "archive_file" "extract-compinfo-zip" {
 	type = "zip"
 	source_file = "../etl/extracts/comp-info-lambda.py"
 	output_path = "${path.root}/lambda-iac/comp-info-lambda.zip"
-}
-
-resource "aws_lambda_layer_version" "python" {
-	filename = "${path.root}/lambda-layer-zip/python.zip"
-	layer_name = "python"
-	description = "python dependencies"
-	compatible_runtimes = ["python3.12"]
 }
 
 resource "aws_lambda_function" "extract-company-info" {
@@ -295,3 +388,54 @@ resource "aws_lambda_function" "extract-company-info" {
 	}
 	
 }
+
+#This function extracts stock price data from api
+
+data "archive_file" "extract-stockprice-zip" {
+        type = "zip"
+        source_file = "../etl/extracts/stock-price-lambda.py"
+        output_path = "${path.root}/lambda-iac/stock-price-lambda.zip"
+}
+
+resource "aws_lambda_function" "extract-stock-price" {
+        function_name = "extract-stock-price"
+        filename = "${path.root}/lambda-iac/stock-price-lambda.zip"
+        role = aws_iam_role.stock-price-lambda.arn
+        handler = "stock-price-lambda.lambda_handler"
+        code_sha256   = data.archive_file.extract-stockprice-zip.output_base64sha256
+        runtime = "python3.12"
+        layers = [aws_lambda_layer_version.python.arn]
+
+        environment {
+                variables = {
+                        APIKEY = var.api_key
+                }
+        }
+
+}
+
+#This function transforms bronze company info data into two silver json files one for company info and one for daily market market data from api
+
+data "archive_file" "trans-compinfo-zip" {
+        type = "zip"
+        source_file = "../etl/transforms/trans-compinfo-lambda.py"
+        output_path = "${path.root}/lambda-iac/trans-compinfo-lambda.zip"
+}
+
+resource "aws_lambda_function" "trans-compinfo-lambda" {
+        function_name = "trans-comp-info"
+        filename = "${path.root}/lambda-iac/trans-compinfo-lambda.zip"
+        role = aws_iam_role.trans-compinfo-lambda.arn
+        handler = "trans-compinfo-lambda.lambda_handler"
+        code_sha256   = data.archive_file.trans-compinfo-zip.output_base64sha256
+        runtime = "python3.12"
+        layers = [aws_lambda_layer_version.python.arn]
+
+        environment {
+                variables = {
+                        APIKEY = var.api_key
+                }
+        }
+
+}
+
