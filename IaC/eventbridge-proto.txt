@@ -1,0 +1,2 @@
+code eventbridges in terraform
+create roles for eventbridge lambda execution

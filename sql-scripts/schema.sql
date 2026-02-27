@@ -1,8 +1,8 @@
---drop table if exists raw_company_info;
+drop table if exists raw_company_info;
 drop table if exists raw_market_data;
---drop table if exists companies;
+drop table if exists companies;
 drop table if exists market_data;
---drop table if exists eod_market_data;
+drop table if exists eod_market_data;
 
 create table raw_company_info (
 	id serial primary key,
